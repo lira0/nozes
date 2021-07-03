@@ -45,14 +45,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208856.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198444.m3u8
 #EXTINF:-1 type="stream" tvg-id="ANIMAL PLANET SD" tvg-logo="http://nbrasil.biz:80/images/b6be930b4208ec24e69c762ce02bdf64.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208857.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARTE 1 FULLHD" tvg-logo="http://nbrasil.biz:80/images/586307d149bb2e4813cd779fbec7cf74.png" group-title="CANAIS: VARIEDADES",ARTE 1 FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208858.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARTE 1 HD" tvg-logo="http://nbrasil.biz:80/images/586307d149bb2e4813cd779fbec7cf74.png" group-title="CANAIS: VARIEDADES",ARTE 1 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208859.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARTE 1 HD - ALT" tvg-logo="http://nbrasil.biz:80/images/586307d149bb2e4813cd779fbec7cf74.png" group-title="CANAIS: VARIEDADES",ARTE 1 HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198443.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARTE 1 SD" tvg-logo="http://nbrasil.biz:80/images/586307d149bb2e4813cd779fbec7cf74.png" group-title="CANAIS: VARIEDADES",ARTE 1 SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208860.m3u8
 #EXTINF:-1 type="stream" tvg-id="AXN FULLHD" tvg-logo="http://nbrasil.biz:80/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES",AXN FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208861.m3u8
 #EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="http://nbrasil.biz:80/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES",AXN HD
@@ -117,14 +109,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208871.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198438.m3u8
 #EXTINF:-1 type="stream" tvg-id="BAND SPORTS SD" tvg-logo="http://nbrasil.biz:80/images/52d0460c88bc29c07be4f40b7f059774.png" group-title="CANAIS: ESPORTES",BAND SPORTS SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208872.m3u8
-#EXTINF:-1 type="stream" tvg-id="BIS FULLHD" tvg-logo="http://nbrasil.biz:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="CANAIS: VARIEDADES",BIS FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208873.m3u8
-#EXTINF:-1 type="stream" tvg-id="BIS HD" tvg-logo="http://nbrasil.biz:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="CANAIS: VARIEDADES",BIS HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208874.m3u8
-#EXTINF:-1 type="stream" tvg-id="BIS HD - ALT" tvg-logo="http://nbrasil.biz:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="CANAIS: VARIEDADES",BIS HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198437.m3u8
-#EXTINF:-1 type="stream" tvg-id="BIS SD" tvg-logo="http://nbrasil.biz:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="CANAIS: VARIEDADES",BIS SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208875.m3u8
 #EXTINF:-1 type="stream" tvg-id="BONS TEMPOS TV" tvg-logo="http://nbrasil.biz:80/images/b91ad7a658efa0f072ec141991856bc3.png" group-title="CANAIS: ABERTOS",BONS TEMPOS TV
 http://dns.padtv.net:80/live/luis9662/96622317carlos/210498.m3u8
 #EXTINF:-1 type="stream" tvg-id="BOOMERANG FULLHD" tvg-logo="http://nbrasil.biz:80/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="CANAIS: INFANTIS",BOOMERANG FULLHD
@@ -167,8 +151,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208889.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198433.m3u8
 #EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK SD" tvg-logo="http://nbrasil.biz:80/images/c8c1c555b38e407055226160ea5637c0.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208890.m3u8
-#EXTINF:-1 type="stream" tvg-id="CHEF TV FULLHD" tvg-logo="http://nbrasil.biz:80/images/6f34b5afe74309dc18660fdcf5a397cf.png" group-title="CANAIS: VARIEDADES",CHEF TV FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132149.m3u8
 #EXTINF:-1 type="stream" tvg-id="CINE TRIANON TV" tvg-logo="https://4.bp.blogspot.com/-O6b1vLp4rRM/XsdMGPXEjaI/AAAAAAAAC1w/ZF_1nR8W7kUECG6l_q8rZGydIl_k0ck4QCLcBGAsYHQ/s320/Screenshot_2020-05-22-00-47-49.png" group-title="CANAIS: ABERTOS",CINE TRIANON TV
 http://dns.padtv.net:80/live/luis9662/96622317carlos/98292.m3u8
 #EXTINF:-1 type="stream" tvg-id="CINEMA 1" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINEMA 1
@@ -221,14 +203,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208898.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198423.m3u8
 #EXTINF:-1 type="stream" tvg-id="COMBATE SD" tvg-logo="http://nbrasil.biz:80/images/dd0b66b1da88cce741fd80fb717e2563.png" group-title="CANAIS: ESPORTES",COMBATE SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208899.m3u8
-#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL FULLHD" tvg-logo="http://nbrasil.biz:80/images/2c3fa5d5a495cbcbbdc65696582004d4.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208900.m3u8
-#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL HD" tvg-logo="http://nbrasil.biz:80/images/2c3fa5d5a495cbcbbdc65696582004d4.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208901.m3u8
-#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/2c3fa5d5a495cbcbbdc65696582004d4.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198422.m3u8
-#EXTINF:-1 type="stream" tvg-id="COMEDY CENTRAL SD" tvg-logo="http://nbrasil.biz:80/images/2c3fa5d5a495cbcbbdc65696582004d4.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208902.m3u8
 #EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 3 FULLHD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 3 FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208903.m3u8
 #EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 3 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 3 HD
@@ -249,12 +223,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208908.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/98308.m3u8
 #EXTINF:-1 type="stream" tvg-id="CULTURA HD - ALT" tvg-logo="http://nbrasil.biz:80/images/4b0774afa697cbc031359fc34618b7c4.png" group-title="CANAIS: ABERTOS",CULTURA HD - ALT
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198412.m3u8
-#EXTINF:-1 type="stream" tvg-id="CURTA! FULLHD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: VARIEDADES",CURTA! FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132156.m3u8
-#EXTINF:-1 type="stream" tvg-id="CURTA! HD - ALT" tvg-logo="http://nbrasil.biz:80/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="CANAIS: VARIEDADES",CURTA! HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198411.m3u8
-#EXTINF:-1 type="stream" tvg-id="CURTA! HD*" tvg-logo="http://nbrasil.biz:80/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="CANAIS: VARIEDADES",CURTA! HD*
-http://dns.padtv.net:80/live/luis9662/96622317carlos/57210.m3u8
 #EXTINF:-1 type="stream" tvg-id="DAZN 01 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209209.m3u8
 #EXTINF:-1 type="stream" tvg-id="DAZN 02 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD
@@ -349,14 +317,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/198397.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/136189.m3u8
 #EXTINF:-1 type="stream" tvg-id="DW ESPANHOL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo_wordmark.png" group-title="CANAIS: NOTICIAS",DW ESPANHOL
 http://dns.padtv.net:80/live/luis9662/96622317carlos/127301.m3u8
-#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT FULLHD" tvg-logo="http://nbrasil.biz:80/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANAIS: VARIEDADES",E! ENTERTAINMENT FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208936.m3u8
-#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT HD" tvg-logo="http://nbrasil.biz:80/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANAIS: VARIEDADES",E! ENTERTAINMENT HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208937.m3u8
-#EXTINF:-1 type="stream" tvg-id="E! ENTERTAINMENT SD" tvg-logo="http://nbrasil.biz:80/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANAIS: VARIEDADES",E! ENTERTAINMENT SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208938.m3u8
-#EXTINF:-1 type="stream" tvg-id="E! HD - ALT" tvg-logo="http://nbrasil.biz:80/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANAIS: VARIEDADES",E! HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198396.m3u8
 #EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 01 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 01 HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209240.m3u8
 #EXTINF:-1 type="stream" tvg-id="ELEVEN SPORTS 02 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",ELEVEN SPORTS 02 HD
@@ -425,28 +385,12 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209215.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209216.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESTADIO TNT SPORTS 05 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 05 HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209217.m3u8
-#EXTINF:-1 type="stream" tvg-id="FASHION TV FULLHD" tvg-logo="http://nbrasil.biz:80/images/928714d3cc82d289abca3af0826d33de.png" group-title="CANAIS: VARIEDADES",FASHION TV FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208951.m3u8
-#EXTINF:-1 type="stream" tvg-id="FASHION TV HD" tvg-logo="http://nbrasil.biz:80/images/928714d3cc82d289abca3af0826d33de.png" group-title="CANAIS: VARIEDADES",FASHION TV HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208952.m3u8
-#EXTINF:-1 type="stream" tvg-id="FASHION TV SD" tvg-logo="http://nbrasil.biz:80/images/928714d3cc82d289abca3af0826d33de.png" group-title="CANAIS: VARIEDADES",FASHION TV SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208953.m3u8
 #EXTINF:-1 type="stream" tvg-id="FISH TV FULLHD" tvg-logo="http://nbrasil.biz:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS: ESPORTES",FISH TV FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132173.m3u8
 #EXTINF:-1 type="stream" tvg-id="FISH TV HD" tvg-logo="http://nbrasil.biz:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS: ESPORTES",FISH TV HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/57150.m3u8
 #EXTINF:-1 type="stream" tvg-id="FISH TV HD - ALT" tvg-logo="http://nbrasil.biz:80/images/b2471575e93867c56cd8f8eed8d1fd3f.png" group-title="CANAIS: ESPORTES",FISH TV HD - ALT
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198389.m3u8
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK FULLHD" tvg-logo="http://nbrasil.biz:80/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208954.m3u8
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK HD" tvg-logo="http://nbrasil.biz:80/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208955.m3u8
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK HD" tvg-logo="http://nbrasil.biz:80/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/40058.m3u8
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK HD - ALT" tvg-logo="http://nbrasil.biz:80/images/dad17a4c1af59f3cc409738c68dd0f1c.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198388.m3u8
-#EXTINF:-1 type="stream" tvg-id="FOOD NETWORK SD" tvg-logo="http://nbrasil.biz:80/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208956.m3u8
 #EXTINF:-1 type="stream" tvg-id="FORMULA 1 TV HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",FORMULA 1 TV HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209212.m3u8
 #EXTINF:-1 type="stream" tvg-id="FOX NEWS FULLHD" tvg-logo="http://meumd.com:80/images/8b548485192ccecdd40ae9688df3a14e.png" group-title="CANAIS: NOTICIAS",FOX NEWS FULLHD
@@ -697,8 +641,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/212252.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/212253.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOBO³ TV GAZETA VITORIA FULLHD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO",GLOBO³ TV GAZETA VITORIA FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/212254.m3u8
-#EXTINF:-1 type="stream" tvg-id="GLOBOSAT HD - ALT" tvg-logo="http://nbrasil.biz:80/images/951d4dff3c22e9fcc4a2707009f45ea8.png" group-title="CANAIS: VARIEDADES",GLOBOSAT HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198370.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOOB FULLHD" tvg-logo="http://nbrasil.biz:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208975.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOOB HD" tvg-logo="http://nbrasil.biz:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="CANAIS: INFANTIS",GLOOB HD
@@ -713,16 +655,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/208978.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208979.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOOBINHO SD" tvg-logo="http://nbrasil.biz:80/images/37549d62c962e44711cef38440e6b4b3.png" group-title="CANAIS: INFANTIS",GLOOBINHO SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208980.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT FULLHD" tvg-logo="http://nbrasil.biz:80/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208981.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://nbrasil.biz:80/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208982.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://nbrasil.biz:80/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/40061.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d3f13d320a6b5bed6c21b6e30258afcb.png" group-title="CANAIS: VARIEDADES",GNT HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198368.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT SD" tvg-logo="http://nbrasil.biz:80/images/21336ce48c2cf1b3b4b6464680e6c151.png" group-title="CANAIS: VARIEDADES",GNT SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208983.m3u8
 #EXTINF:-1 type="stream" tvg-id="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",GOLF CHANNEL
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132526.m3u8
 #EXTINF:-1 type="stream" tvg-id="GOSPEL CARTOON" tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png" group-title="CANAIS: ABERTOS",GOSPEL CARTOON
@@ -827,30 +759,8 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209018.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198356.m3u8
 #EXTINF:-1 type="stream" tvg-id="INVESTIGATION DISCOVERY SD" tvg-logo="http://nbrasil.biz:80/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209019.m3u8
-#EXTINF:-1 type="stream" tvg-id="ISAT FULLHD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/03/isat.png" group-title="CANAIS: VARIEDADES",ISAT FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132215.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIFETIME FULLHD" tvg-logo="http://nbrasil.biz:80/images/0c53f0413f5b3ff367f04ba1ae2c4487.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209020.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIFETIME HD" tvg-logo="http://nbrasil.biz:80/images/0c53f0413f5b3ff367f04ba1ae2c4487.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209021.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIFETIME HD - ALT" tvg-logo="http://nbrasil.biz:80/images/0c53f0413f5b3ff367f04ba1ae2c4487.png" group-title="CANAIS: VARIEDADES",LIFETIME HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198355.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIFETIME SD" tvg-logo="http://nbrasil.biz:80/images/0c53f0413f5b3ff367f04ba1ae2c4487.png" group-title="CANAIS: VARIEDADES",LIFETIME SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209022.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIKE FULLHD" tvg-logo="http://nbrasil.biz:80/images/51f7bd7d2b3fb65a260436847afa4759.png" group-title="CANAIS: VARIEDADES",LIKE FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209023.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIKE HD" tvg-logo="http://nbrasil.biz:80/images/51f7bd7d2b3fb65a260436847afa4759.png" group-title="CANAIS: VARIEDADES",LIKE HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209024.m3u8
-#EXTINF:-1 type="stream" tvg-id="LIKE SD" tvg-logo="http://nbrasil.biz:80/images/51f7bd7d2b3fb65a260436847afa4759.png" group-title="CANAIS: VARIEDADES",LIKE SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209025.m3u8
 #EXTINF:-1 type="stream" tvg-id="LOADING TV" tvg-logo="http://nbrasil.biz:80/images/2390b3518e49cb46d70f3a1e5736e24a.png" group-title="CANAIS: INFANTIS",LOADING TV
 http://dns.padtv.net:80/live/luis9662/96622317carlos/109710.m3u8
-#EXTINF:-1 type="stream" tvg-id="LULUZINHA" tvg-logo="https://3.bp.blogspot.com/-hWw2xwHI3h4/Tsq6QuSR4mI/AAAAAAAAUR8/aXX0dGboKCY/s1600/luluzinha_f_008.jpg" group-title="CANAIS: DESENHOS 24HS",LULUZINHA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132772.m3u8
-#EXTINF:-1 type="stream" tvg-id="MAIS GLOBOSAT" tvg-logo="http://nbrasil.biz:80/images/c7488d245ac86f03363f7ae31245b909.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/100770.m3u8
-#EXTINF:-1 type="stream" tvg-id="MAIS GLOBOSAT FULLHD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132217.m3u8
 #EXTINF:-1 type="stream" tvg-id="MAIS GLOBOSAT SD" tvg-logo="http://nbrasil.biz:80/images/0f64e38594561c3efe8f0e0a3a3ac306.png" group-title="CANAIS: NOTICIAS",MAIS GLOBOSAT SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132460.m3u8
 #EXTINF:-1 type="stream" tvg-id="MAIS NA TELA FULLHD" tvg-logo="http://nbrasil.biz:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="CANAIS: DOCUMENTARIOS",MAIS NA TELA FULLHD
@@ -859,12 +769,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209026.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209027.m3u8
 #EXTINF:-1 type="stream" tvg-id="MAIS NA TELA SD" tvg-logo="http://nbrasil.biz:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="CANAIS: DOCUMENTARIOS",MAIS NA TELA SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209028.m3u8
-#EXTINF:-1 type="stream" tvg-id="MARINHEIRO POPEYE" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/06/Popeye-Popeye-14-PNG.png" group-title="CANAIS: DESENHOS 24HS",MARINHEIRO POPEYE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132782.m3u8
-#EXTINF:-1 type="stream" tvg-id="MASHA E O URSO" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/a110f681be78953084a356d784f45452.png" group-title="CANAIS: DESENHOS 24HS",MASHA E O URSO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132314.m3u8
-#EXTINF:-1 type="stream" tvg-id="MASTERCHEF" tvg-logo="https://i.pinimg.com/originals/02/37/32/02373230148ce4fde8b3fac5960745cf.png" group-title="CANAIS: SÉRIES 24HS",MASTERCHEF
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132735.m3u8
 #EXTINF:-1 type="stream" tvg-id="MEGAPIX FULLHD" tvg-logo="http://nbrasil.biz:80/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209029.m3u8
 #EXTINF:-1 type="stream" tvg-id="MEGAPIX HD" tvg-logo="http://nbrasil.biz:80/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
@@ -875,48 +779,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/198354.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209031.m3u8
 #EXTINF:-1 type="stream" tvg-id="MLB NETWORK" tvg-logo="https://purepng.com/public/uploads/large/mlb-network-logo-aba.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132509.m3u8
-#EXTINF:-1 type="stream" tvg-id="MOSQUITO, MOSQUETE e MOSCARDO" tvg-logo="https://www.animeserie.com/product_images/h/464/Mosquete_Mosquito_Moscardo__38550_zoom.png" group-title="CANAIS: DESENHOS 24HS",MOSQUITO, MOSQUETE e MOSCARDO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132599.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV FULLHD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209032.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV HD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209033.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV HD - ALT" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198353.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV LIVE FULLHD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV LIVE FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209034.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV LIVE HD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV LIVE HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209035.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV LIVE SD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV LIVE SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209036.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV SD" tvg-logo="http://nbrasil.biz:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: VARIEDADES",MTV SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209037.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTISHOW 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: 4K",MULTISHOW 4K
-http://dns.padtv.net:80/live/luis9662/96622317carlos/58404.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTISHOW HD - ALT" tvg-logo="http://nbrasil.biz:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTISHOW HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198348.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW FULLHD" tvg-logo="http://nbrasil.biz:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209038.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://nbrasil.biz:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209039.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW HD" tvg-logo="http://nbrasil.biz:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/100771.m3u8
-#EXTINF:-1 type="stream" tvg-id="MULTSHOW SD" tvg-logo="http://nbrasil.biz:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209040.m3u8
-#EXTINF:-1 type="stream" tvg-id="MUNDO BITA" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/03/Imagens-Mundo-Bita-Logo-Mundo-Bita-PNG.png" group-title="CANAIS: DESENHOS 24HS",MUNDO BITA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132567.m3u8
-#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRASIL FULLHD" tvg-logo="http://nbrasil.biz:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRASIL FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132221.m3u8
-#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL FULLHD" tvg-logo="http://nbrasil.biz:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRAZIL FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209194.m3u8
-#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL HD" tvg-logo="http://nbrasil.biz:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRAZIL HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209195.m3u8
-#EXTINF:-1 type="stream" tvg-id="MUSIC BOX BRAZIL SD" tvg-logo="http://nbrasil.biz:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRAZIL SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209196.m3u8
-#EXTINF:-1 type="stream" tvg-id="NARUTO" tvg-logo="https://4.bp.blogspot.com/-cgf6-E-rh5k/XGiXd-TBCdI/AAAAAAAAHuU/WE_N3mzjajkTMB7W9QWNSvQ1Ko-W23gcACLcBGAs/s1600/2884_render_rendernarutosennin.png" group-title="CANAIS: DESENHOS 24HS",NARUTO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/109108.m3u8
-#EXTINF:-1 type="stream" tvg-id="NARUTO SHIPPUDEN" tvg-logo="https://media.moddb.com/cache/images/mods/1/35/34056/thumb_620x2000/naruto_logo_by_creativecgi.4.png" group-title="CANAIS: DESENHOS 24HS",NARUTO SHIPPUDEN
-http://dns.padtv.net:80/live/luis9662/96622317carlos/109109.m3u8
 #EXTINF:-1 type="stream" tvg-id="NAT GEO KIDS FULLHD" tvg-logo="http://nbrasil.biz:80/images/8c9767211be6b1ebdf6a873549e6bf3a.png" group-title="CANAIS: INFANTIS",NAT GEO KIDS FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209041.m3u8
 #EXTINF:-1 type="stream" tvg-id="NAT GEO KIDS HD" tvg-logo="http://nbrasil.biz:80/images/8c9767211be6b1ebdf6a873549e6bf3a.png" group-title="CANAIS: INFANTIS",NAT GEO KIDS HD
@@ -973,14 +835,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209226.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209227.m3u8
 #EXTINF:-1 type="stream" tvg-id="NOSSA TV(TV CULTURA RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="CANAIS: ABERTOS",NOSSA TV(TV CULTURA RN)
 http://dns.padtv.net:80/live/luis9662/96622317carlos/210502.m3u8
-#EXTINF:-1 type="stream" tvg-id="O FANTASTICO MUNDO DE BOBBY" tvg-logo="http://2.bp.blogspot.com/-Hty0ljbYR5Y/VeJkk-7nT8I/AAAAAAAAUH4/6Sc6_Ly_CEo/s320/04.png" group-title="CANAIS: DESENHOS 24HS",O FANTASTICO MUNDO DE BOBBY
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132571.m3u8
-#EXTINF:-1 type="stream" tvg-id="O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://i.pinimg.com/originals/98/3f/b3/983fb3208bad610c643a7af890484d9f.png" group-title="CANAIS: DESENHOS 24HS",O INCRÍVEL MUNDO DE GUMBALL
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132755.m3u8
-#EXTINF:-1 type="stream" tvg-id="O MUNDO DE BITA" tvg-logo="https://i.pinimg.com/originals/b7/18/f1/b718f1a62f39c19e5ad207f4ccfc28eb.png" group-title="CANAIS: DESENHOS 24HS",O MUNDO DE BITA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132757.m3u8
-#EXTINF:-1 type="stream" tvg-id="O SHOW DA LUNA!" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2016/05/o-show-da-luna-01-1024x1024.png" group-title="CANAIS: DESENHOS 24HS",O SHOW DA LUNA!
-http://dns.padtv.net:80/live/luis9662/96622317carlos/199208.m3u8
 #EXTINF:-1 type="stream" tvg-id="OFF FULLHD" tvg-logo="http://nbrasil.biz:80/images/c3935eb148c1675705c3ecd9010880b0.png" group-title="CANAIS: ESPORTES",OFF FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209056.m3u8
 #EXTINF:-1 type="stream" tvg-id="OFF HD" tvg-logo="http://nbrasil.biz:80/images/c3935eb148c1675705c3ecd9010880b0.png" group-title="CANAIS: ESPORTES",OFF HD
@@ -989,36 +843,12 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209057.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198342.m3u8
 #EXTINF:-1 type="stream" tvg-id="OFF SD" tvg-logo="http://nbrasil.biz:80/images/c3935eb148c1675705c3ecd9010880b0.png" group-title="CANAIS: ESPORTES",OFF SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209058.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS CAÇA FANTASMAS" tvg-logo="https://i.pinimg.com/originals/f9/18/30/f91830224e87c3556d5b814d3941c24c.png" group-title="CANAIS: DESENHOS 24HS",OS CAÇA FANTASMAS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132569.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS FLINTSTONES" tvg-logo="https://3.bp.blogspot.com/-6i2shEIgkGI/VvvbS1t0jBI/AAAAAAAA9C8/lYNjSBzHgucFlrdE5irhSoz0YZ7w6S_8w/s1600/Os%2Bflintstones%2B%2Bem%2Bpng%2Be%2Bgifs%2B%25285%2529.png" group-title="CANAIS: DESENHOS 24HS",OS FLINTSTONES
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132759.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="CANAIS: DESENHOS 24HS",OS FLINTSTONES
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132579.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS HERCULÓIDES" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=380x10000:format=png/path/s6a624f16ab643f56/image/i3a639a6006059e1a/version/1526698089/image.png" group-title="CANAIS: DESENHOS 24HS",OS HERCULÓIDES
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132585.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS JETSONS" tvg-logo="https://i.pinimg.com/originals/3f/20/8d/3f208d64984020483ec42ebe4e87993e.png" group-title="CANAIS: DESENHOS 24HS",OS JETSONS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132760.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS JETSONS" tvg-logo="https://i.pinimg.com/originals/27/91/e6/2791e6ced1430267d42ecaf8a235f75f.png" group-title="CANAIS: DESENHOS 24HS",OS JETSONS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132588.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS JOVENS TITÃS EM AÇÃO" tvg-logo="http://catalogobrasil.mattel.com/news/wp-content/uploads/2018/07/1.png" group-title="CANAIS: DESENHOS 24HS",OS JOVENS TITÃS EM AÇÃO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132775.m3u8
-#EXTINF:-1 type="stream" tvg-id="Os Padrinhos Mágicos" tvg-logo="https://e7.pngegg.com/pngimages/637/575/png-clipart-nickelodeon-cosmo-and-wanda-cosma-cartoon-drawing-others-nickelodeon-cosmo-thumbnail.png" group-title="CANAIS: DESENHOS 24HS",Os Padrinhos Mágicos
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132807.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS SIMPSONS" tvg-logo="https://i.pinimg.com/originals/db/b7/8d/dbb78d4a3cb7910dc2ccb51faf9257bd.png" group-title="CANAIS: DESENHOS 24HS",OS SIMPSONS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/109114.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS SMURFS" tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/familia_smurg.png" group-title="CANAIS: DESENHOS 24HS",OS SMURFS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132795.m3u8
-#EXTINF:-1 type="stream" tvg-id="OS THUNDERMANS" tvg-logo="https://i.dlpng.com/static/png/7309711_preview.png" group-title="CANAIS: SÉRIES 24HS",OS THUNDERMANS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132745.m3u8
 #EXTINF:-1 type="stream" tvg-id="PAI ETERNO FULLHD" tvg-logo="http://nbrasil.biz:80/images/5bb36419c1f4e0dd2df0e3ab74feb07b.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209059.m3u8
 #EXTINF:-1 type="stream" tvg-id="PAI ETERNO HD" tvg-logo="http://nbrasil.biz:80/images/5bb36419c1f4e0dd2df0e3ab74feb07b.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209060.m3u8
 #EXTINF:-1 type="stream" tvg-id="PAI ETERNO SD" tvg-logo="http://nbrasil.biz:80/images/5bb36419c1f4e0dd2df0e3ab74feb07b.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209061.m3u8
-#EXTINF:-1 type="stream" tvg-id="PAPA-LÉGUAS" tvg-logo="https://i.pinimg.com/originals/31/08/36/31083669623c55a9ebe836334a0e1492.png" group-title="CANAIS: DESENHOS 24HS",PAPA-LÉGUAS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132601.m3u8
 #EXTINF:-1 type="stream" tvg-id="PARAMOUNT CHANNEL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD - ALT
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198341.m3u8
 #EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK FULLHD" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT NETWORK FULLHD
@@ -1027,26 +857,8 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209062.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209063.m3u8
 #EXTINF:-1 type="stream" tvg-id="PARAMOUNT NETWORK SD" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT NETWORK SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209064.m3u8
-#EXTINF:-1 type="stream" tvg-id="PATRULHA CANINA 24H" tvg-logo="https://i.pinimg.com/originals/87/48/2d/87482d88e9222309998403f53f1de7ab.png" group-title="CANAIS: DESENHOS 24HS",PATRULHA CANINA 24H
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132299.m3u8
-#EXTINF:-1 type="stream" tvg-id="PEPPA PIG" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/daa730c1eb59c94587e0f2e4b8ef33a6.png" group-title="CANAIS: DESENHOS 24HS",PEPPA PIG
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132288.m3u8
-#EXTINF:-1 type="stream" tvg-id="PICA-PAU" tvg-logo="https://i.pinimg.com/originals/21/c6/95/21c695b584f1de784714b78b618e2f62.png" group-title="CANAIS: DESENHOS 24HS",PICA-PAU
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132309.m3u8
-#EXTINF:-1 type="stream" tvg-id="PINK E O CÉREBRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/PATB_DVD_logo.png" group-title="CANAIS: DESENHOS 24HS",PINK E O CÉREBRO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132604.m3u8
-#EXTINF:-1 type="stream" tvg-id="PIRATAS DO ESPAÇO" tvg-logo="https://i.pinimg.com/originals/ea/e2/ff/eae2fff4c17851dc53a6d77012ea8e96.jpg" group-title="CANAIS: DESENHOS 24HS",PIRATAS DO ESPAÇO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132798.m3u8
-#EXTINF:-1 type="stream" tvg-id="PJ MASKS" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Imagem-Disney-PJ-Masks-PNG-1024x904.png" group-title="CANAIS: DESENHOS 24HS",PJ MASKS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/199212.m3u8
 #EXTINF:-1 type="stream" tvg-id="PLAY GOSPEL TV" tvg-logo="https://play-lh.googleusercontent.com/hjVEqqVFS4Yxw7Omf09SeJVm9vGZMMpMXq4Y7CFWGMKzS9vCMdkU6JN_KwTq-1Zq7uY" group-title="CANAIS: ABERTOS",PLAY GOSPEL TV
 http://dns.padtv.net:80/live/luis9662/96622317carlos/210500.m3u8
-#EXTINF:-1 type="stream" tvg-id="PLAY TV FULLHD" tvg-logo="http://nbrasil.biz:80/images/fa8ef6391c03084e8758765abbdf0579.png" group-title="CANAIS: VARIEDADES",PLAY TV FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132230.m3u8
-#EXTINF:-1 type="stream" tvg-id="PODEROSO CHEFINHO" tvg-logo="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2018/04/O-Poderoso-Chefinho-Baby-Boss-Logo-PNG.png" group-title="CANAIS: DESENHOS 24HS",PODEROSO CHEFINHO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132572.m3u8
-#EXTINF:-1 type="stream" tvg-id="POPEYE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Popeye-movie-logo.png" group-title="CANAIS: DESENHOS 24HS",POPEYE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132605.m3u8
 #EXTINF:-1 type="stream" tvg-id="POWER COUPLE 5 FULLHD" tvg-logo="" group-title="CANAIS: REALYT SHOW",POWER COUPLE 5 FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209250.m3u8
 #EXTINF:-1 type="stream" tvg-id="POWER COUPLE 5 HD" tvg-logo="" group-title="CANAIS: REALYT SHOW",POWER COUPLE 5 HD
@@ -1057,8 +869,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209252.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198507.m3u8
 #EXTINF:-1 type="stream" tvg-id="POWER COUPLE BRASIL HD³" tvg-logo="http://nbrasil.biz:80/images/ac605bc76db63c2d63214edac71e5d3e.png" group-title="CANAIS: REALYT SHOW",POWER COUPLE BRASIL HD³
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198506.m3u8
-#EXTINF:-1 type="stream" tvg-id="POWER RANGERS" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS: DESENHOS 24HS",POWER RANGERS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132301.m3u8
 #EXTINF:-1 type="stream" tvg-id="PREMIERE 2 FULLHD" tvg-logo="http://nbrasil.biz:80/images/76428adf317473078df683477500c5d0.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209068.m3u8
 #EXTINF:-1 type="stream" tvg-id="PREMIERE 2 HD" tvg-logo="http://nbrasil.biz:80/images/76428adf317473078df683477500c5d0.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
@@ -1115,18 +925,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/198336.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/95614.m3u8
 #EXTINF:-1 type="stream" tvg-id="PREMIERE CLUBES SD" tvg-logo="http://nbrasil.biz:80/images/76428adf317473078df683477500c5d0.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209088.m3u8
-#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL FULLHD" tvg-logo="http://nbrasil.biz:80/images/cfc3c88c9302d607c3a687449e95e483.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209089.m3u8
-#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL HD" tvg-logo="http://nbrasil.biz:80/images/cfc3c88c9302d607c3a687449e95e483.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209090.m3u8
-#EXTINF:-1 type="stream" tvg-id="PRIME BOX BRASIL SD" tvg-logo="http://nbrasil.biz:80/images/cfc3c88c9302d607c3a687449e95e483.png" group-title="CANAIS: VARIEDADES",PRIME BOX BRASIL SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209091.m3u8
-#EXTINF:-1 type="stream" tvg-id="Rádio Gaúcha AM 600 FM 93.7 Porto Alegre / RS - Brasil" tvg-logo="http://nbrasil.biz:80/images/c783586a8c1f154c4fd42c7c3b236290.png" group-title="RADIOS",Rádio Gaúcha AM 600 FM 93.7 Porto Alegre / RS - Brasil
-http://dns.padtv.net:80/live/luis9662/96622317carlos/206970.m3u8
-#EXTINF:-1 type="stream" tvg-id="Rádio Top 100.5 FM Sorocaba / SP - Brasil" tvg-logo="http://nbrasil.biz:80/images/b376be391e95315b8110b27b633b9722.jpg" group-title="RADIOS",Rádio Top 100.5 FM Sorocaba / SP - Brasil
-http://dns.padtv.net:80/live/luis9662/96622317carlos/211276.m3u8
-#EXTINF:-1 type="stream" tvg-id="Rádio Vale Verde FM 96.7 Itapetininga / SP - Brasil" tvg-logo="http://nbrasil.biz:80/images/0df688ffe4147ba738ab9e26eff80ca8.png" group-title="RADIOS",Rádio Vale Verde FM 96.7 Itapetininga / SP - Brasil
-http://dns.padtv.net:80/live/luis9662/96622317carlos/205218.m3u8
 #EXTINF:-1 type="stream" tvg-id="RAI INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/200px-Logo_of_RAI_%282016%29.svg.png" group-title="CANAIS: NOTICIAS",RAI INTERNACIONAL HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/127302.m3u8
 #EXTINF:-1 type="stream" tvg-id="RECORD AMAZONAS SD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD",RECORD AMAZONAS SD
@@ -1257,8 +1055,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/198329.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209094.m3u8
 #EXTINF:-1 type="stream" tvg-id="RIT FULLHD" tvg-logo="http://nbrasil.biz:80/images/5f52be58b6eacc0bb3b209d1c7acdc9f.png" group-title="CANAIS: RELIGIOSOS",RIT FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/211744.m3u8
-#EXTINF:-1 type="stream" tvg-id="SAKURA CARDS CAPTORS - ANIME" tvg-logo="https://i.dlpng.com/static/png/6696371_preview.png" group-title="CANAIS: DESENHOS 24HS",SAKURA CARDS CAPTORS - ANIME
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132758.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="CANAIS: 4K",SBT 4K
 http://dns.padtv.net:80/live/luis9662/96622317carlos/58407.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT GOIAS HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS",SBT GOIAS HD - ALT
@@ -1291,64 +1087,15 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209203.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209204.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT VTV CAMPINAS SD" tvg-logo="" group-title="CANAIS: ABERTOS",SBT VTV CAMPINAS SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209205.m3u8
-#EXTINF:-1 type="stream" tvg-id="SCOOBY DOO" tvg-logo="https://i.pinimg.com/originals/a4/70/e9/a470e9dac6bf0b622402ffbcf9827a7c.png" group-title="CANAIS: DESENHOS 24HS",SCOOBY DOO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132785.m3u8
-#EXTINF:-1 type="stream" tvg-id="SCOOBY DOO!" tvg-logo="https://4.bp.blogspot.com/-h9jKcKesYyw/V5qirUjfUTI/AAAAAAAALrE/19n6G22K-HkKJ6JFD7ZWBCdp3sclJJ3agCLcB/s1600/QF1nJLU.png" group-title="CANAIS: DESENHOS 24HS",SCOOBY DOO!
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132771.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHE-RA" tvg-logo="https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/1/1e/She-RaRender_2.png" group-title="CANAIS: DESENHOS 24HS",SHE-RA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132607.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOPTIME HD" tvg-logo="https://img2.pngio.com/logo-shoptime-imagens-brasil-shoptime-png-300_169.png" group-title="CANAIS: VARIEDADES",SHOPTIME HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/120442.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW BEL MARQUES" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW BEL MARQUES
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198542.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW CAVALEIROS DO FORRO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW CAVALEIROS DO FORRO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198541.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW CIDADE NEGRA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW CIDADE NEGRA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198540.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW DA LUNA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW DA LUNA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198539.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW DJAVAN" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW DJAVAN
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198538.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW EDSON LIMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW EDSON LIMA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198537.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW FERNANDA BRUM" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW FERNANDA BRUM
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198535.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW FERNANDINHO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW FERNANDINHO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198536.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW GATINHA MANHOSA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW GATINHA MANHOSA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198534.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW KID ABELHA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW KID ABELHA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198533.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW MARCIA FELIPE" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW MARCIA FELIPE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198532.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW MASTRUZ COM LEITE" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW MASTRUZ COM LEITE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198531.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW ROUPA NOVA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW ROUPA NOVA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198530.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW SAULO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW SAULO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198529.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW TOP SERTANEJO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW TOP SERTANEJO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198528.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW WESLY SAFADÃO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW WESLY SAFADÃO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198527.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW XANDE AVIÃO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW XANDE AVIÃO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198526.m3u8
-#EXTINF:-1 type="stream" tvg-id="SHOW ZELEZINHO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/200/443/small_2x/music-button-play.png" group-title="CANAIS: SHOWS AO VIVO",SHOW ZELEZINHO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198525.m3u8
 #EXTINF:-1 type="stream" tvg-id="SIC INTERNACIONAL²" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png" group-title="CANAIS: NOTICIAS",SIC INTERNACIONAL²
 http://dns.padtv.net:80/live/luis9662/96622317carlos/136190.m3u8
 #EXTINF:-1 type="stream" tvg-id="SIM TV (RECORD TV ES) HD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD",SIM TV (RECORD TV ES) HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/211759.m3u8
-#EXTINF:-1 type="stream" tvg-id="SÍTIO DO PICA-PAU AMARELO" tvg-logo="https://sitiodopicapauamarelosp.com.br/wp-content/uploads/2018/09/personagens-sitio-do-picapau-amarelo.jpg" group-title="CANAIS: DESENHOS 24HS",SÍTIO DO PICA-PAU AMARELO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132751.m3u8
 #EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL  SD" tvg-logo="http://nbrasil.biz:80/images/1e2d5cf712a0023e9bf778d6684714c0.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN CHANNEL  SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209100.m3u8
 #EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL FULLHD" tvg-logo="http://nbrasil.biz:80/images/1e2d5cf712a0023e9bf778d6684714c0.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN CHANNEL FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209098.m3u8
 #EXTINF:-1 type="stream" tvg-id="SMITHSONIAN CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/1e2d5cf712a0023e9bf778d6684714c0.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN CHANNEL HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209099.m3u8
-#EXTINF:-1 type="stream" tvg-id="SOBRENATURAL" tvg-logo="https://2.bp.blogspot.com/-Y1ADDC60sJ8/V1Nk9woA99I/AAAAAAAAFYw/5eo55n0os0gerKe8VVNGZiHFZV0ZrQvQACLcB/s1600/supernatural_season_7_png_by_vampiressuckfan1234-d4qky17.png" group-title="CANAIS: SÉRIES 24HS",SOBRENATURAL
-http://dns.padtv.net:80/live/luis9662/96622317carlos/40278.m3u8
 #EXTINF:-1 type="stream" tvg-id="SONY CHANNEL FULLHD" tvg-logo="http://nbrasil.biz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES",SONY CHANNEL FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208885.m3u8
 #EXTINF:-1 type="stream" tvg-id="SONY CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES",SONY CHANNEL HD
@@ -1367,8 +1114,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209102.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198323.m3u8
 #EXTINF:-1 type="stream" tvg-id="SPACE SD" tvg-logo="http://nbrasil.biz:80/images/2c77a3b4ee7d02edb3fb963888945de4.png" group-title="CANAIS: FILMES E SERIES",SPACE SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209103.m3u8
-#EXTINF:-1 type="stream" tvg-id="SPEED RACER 24H" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/2340486e0d10abacb9008e2c3746d6e4.png" group-title="CANAIS: DESENHOS 24HS",SPEED RACER 24H
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132284.m3u8
 #EXTINF:-1 type="stream" tvg-id="SPORT TV +" tvg-logo="https://makeawish.pt/wp-content/uploads/2019/08/34.-Sport-Tv-e1566482596930.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV +
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132517.m3u8
 #EXTINF:-1 type="stream" tvg-id="SPORT TV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1
@@ -1411,8 +1156,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209111.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198320.m3u8
 #EXTINF:-1 type="stream" tvg-id="SPORTV SD" tvg-logo="http://nbrasil.biz:80/images/bc3be9f7af8b60fb066596270f8d787e.png" group-title="CANAIS: ESPORTES",SPORTV SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209112.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAND-UP" tvg-logo="https://www.veseloeradio.ru/design/images/actions/2019/big-stand-up-live/big-standup-humor-fm-live.png" group-title="CANAIS: SÉRIES 24HS",STAND-UP
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132737.m3u8
 #EXTINF:-1 type="stream" tvg-id="STAR CHANNEL" tvg-logo="" group-title="CANAIS: 4K",STAR CHANNEL
 http://dns.padtv.net:80/live/luis9662/96622317carlos/136439.m3u8
 #EXTINF:-1 type="stream" tvg-id="STAR CHANNEL FULLHD" tvg-logo="http://nbrasil.biz:80/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL FULLHD
@@ -1439,14 +1182,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209119.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209120.m3u8
 #EXTINF:-1 type="stream" tvg-id="STAR HITS SD" tvg-logo="http://nbrasil.biz:80/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES",STAR HITS SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209121.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR LIFE FULLHD" tvg-logo="http://nbrasil.biz:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209122.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR LIFE HD" tvg-logo="http://nbrasil.biz:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209123.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR LIFE SD" tvg-logo="http://nbrasil.biz:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS: VARIEDADES",STAR LIFE SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209124.m3u8
-#EXTINF:-1 type="stream" tvg-id="STREET FIGTHER" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/0bd31b0cda59de051da19a00510db7cf.png" group-title="CANAIS: DESENHOS 24HS",STREET FIGTHER
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132285.m3u8
 #EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL FULLHD" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209125.m3u8
 #EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL HD" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
@@ -1455,12 +1190,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209126.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198319.m3u8
 #EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL SD" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209127.m3u8
-#EXTINF:-1 type="stream" tvg-id="SUPER AMIGOS" tvg-logo="http://4.bp.blogspot.com/-maSxLaxxfDQ/TcLQ0VuC2mI/AAAAAAAAC5A/D7NGRg29IwE/s1600/Superfriends.png" group-title="CANAIS: DESENHOS 24HS",SUPER AMIGOS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132763.m3u8
-#EXTINF:-1 type="stream" tvg-id="SUPER CHOQUE" tvg-logo="https://i.pinimg.com/originals/07/26/21/0726212a7a25527ae8ce84933d7e28df.png" group-title="CANAIS: DESENHOS 24HS",SUPER CHOQUE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132799.m3u8
-#EXTINF:-1 type="stream" tvg-id="SUPER WINGS" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2020/01/super_wings_capa_galeria_2020.png" group-title="CANAIS: DESENHOS 24HS",SUPER WINGS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/199211.m3u8
 #EXTINF:-1 type="stream" tvg-id="SYFY FULLHD" tvg-logo="http://nbrasil.biz:80/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS: FILMES E SERIES",SYFY FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209128.m3u8
 #EXTINF:-1 type="stream" tvg-id="SYFY HD" tvg-logo="http://nbrasil.biz:80/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
@@ -1527,10 +1256,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209150.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198312.m3u8
 #EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH SD" tvg-logo="http://nbrasil.biz:80/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209151.m3u8
-#EXTINF:-1 type="stream" tvg-id="THE BIG BANG THEORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" group-title="CANAIS: SÉRIES 24HS",THE BIG BANG THEORY
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198229.m3u8
-#EXTINF:-1 type="stream" tvg-id="THUNDERCATS" tvg-logo="https://i.pinimg.com/originals/f2/9f/e9/f29fe9fd1365be35797f5380a05a0532.png" group-title="CANAIS: DESENHOS 24HS",THUNDERCATS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132608.m3u8
 #EXTINF:-1 type="stream" tvg-id="TNT 4K" tvg-logo="https://lh3.googleusercontent.com/proxy/PFbg4L5OdoNim-7v3taWKf-OSqQ6W3ljxVEPQQziaWF2VQfekpOcwTQtkx6qCMzkZXDj8GtUIITgKMzQVO2bFftppoeU226jkW0hzpKheJWTy2k1nQ" group-title="CANAIS: 4K",TNT 4K
 http://dns.padtv.net:80/live/luis9662/96622317carlos/58411.m3u8
 #EXTINF:-1 type="stream" tvg-id="TNT FULLHD" tvg-logo="http://nbrasil.biz:80/images/5d6fb876db1825223043d60bd7ae9576.png" group-title="CANAIS: FILMES E SERIES",TNT FULLHD
@@ -1549,28 +1274,12 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209159.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198308.m3u8
 #EXTINF:-1 type="stream" tvg-id="TNT SERIES SD" tvg-logo="http://nbrasil.biz:80/images/ea7f80ea0afa80fd3c686b219c47a61b.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209160.m3u8
-#EXTINF:-1 type="stream" tvg-id="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://1.bp.blogspot.com/-qQTeTzcg4vM/VIgfjD-zyyI/AAAAAAAADcs/ztXeMTiej0Q/s1600/Todo%2BMundo%2BOdeia%2Bo%2BChris%C2%B2.png" group-title="CANAIS: SÉRIES 24HS",TODO MUNDO ODEIA O CHRIS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/42725.m3u8
-#EXTINF:-1 type="stream" tvg-id="Tom & Jerry" tvg-logo="https://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png" group-title="CANAIS: DESENHOS 24HS",Tom & Jerry
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132805.m3u8
-#EXTINF:-1 type="stream" tvg-id="TOMA LA DA CÁ" tvg-logo="http://logos-vector.com/images/logo/xxl/1/7/5/175690/Toma_L_D_C__d2bd7_450x450.png" group-title="CANAIS: SÉRIES 24HS",TOMA LA DA CÁ
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132736.m3u8
 #EXTINF:-1 type="stream" tvg-id="TOONCAST FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="CANAIS: INFANTIS",TOONCAST FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/132265.m3u8
 #EXTINF:-1 type="stream" tvg-id="TOONCAST HD" tvg-logo="http://nbrasil.biz:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="CANAIS: INFANTIS",TOONCAST HD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/57196.m3u8
 #EXTINF:-1 type="stream" tvg-id="TOONCAST HD - ALT" tvg-logo="http://nbrasil.biz:80/images/e8815906a846f4da935216c81fbf4a8a.png" group-title="CANAIS: INFANTIS",TOONCAST HD - ALT
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198307.m3u8
-#EXTINF:-1 type="stream" tvg-id="TRAVEL BOX BRAZIL FULLHD" tvg-logo="http://nbrasil.biz:80/images/ee93281e2eb834801ad2c933ed6011b0.png" group-title="CANAIS: VARIEDADES",TRAVEL BOX BRAZIL FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209161.m3u8
-#EXTINF:-1 type="stream" tvg-id="TRAVEL BOX BRAZIL HD" tvg-logo="http://nbrasil.biz:80/images/ee93281e2eb834801ad2c933ed6011b0.png" group-title="CANAIS: VARIEDADES",TRAVEL BOX BRAZIL HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209162.m3u8
-#EXTINF:-1 type="stream" tvg-id="TRU TV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TruTV_UK_logo.svg/1200px-TruTV_UK_logo.svg.png" group-title="CANAIS: VARIEDADES",TRU TV FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132266.m3u8
-#EXTINF:-1 type="stream" tvg-id="TRUTV HD" tvg-logo="http://nbrasil.biz:80/images/6641ccf1119a231cfce47e2c913a3443.png" group-title="CANAIS: VARIEDADES",TRUTV HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/99109.m3u8
-#EXTINF:-1 type="stream" tvg-id="TURMA DO MANDA-CHUVA" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/48a620e931a94bb27baf7cbf157511f2.png" group-title="CANAIS: DESENHOS 24HS",TURMA DO MANDA-CHUVA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132297.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV ABERTA SÃO PAULO" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="CANAIS: ABERTOS",TV ABERTA SÃO PAULO
 http://dns.padtv.net:80/live/luis9662/96622317carlos/204439.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV AGUA BOA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2c576b1bec374ee33c01714244201bd.jpg" group-title="CANAIS: ABERTOS",TV AGUA BOA
@@ -1677,8 +1386,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/128757.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/98321.m3u8
 #EXTINF:-1 type="stream" tvg-id="TVC CEARÁ" tvg-logo="http://nbrasil.biz:80/images/c21dcfdb83d2b842dbe253874e6ddc81.png" group-title="CANAIS: ABERTOS",TVC CEARÁ
 http://dns.padtv.net:80/live/luis9662/96622317carlos/205311.m3u8
-#EXTINF:-1 type="stream" tvg-id="UM MALUCO NO PEDAÇO" tvg-logo="http://nbrasil.biz:80/images/1effbf1c22863c5e9203c1ad008f7a1d.png" group-title="CANAIS: SÉRIES 24HS",UM MALUCO NO PEDAÇO
-http://dns.padtv.net:80/live/luis9662/96622317carlos/133965.m3u8
 #EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV FULLHD" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209179.m3u8
 #EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV HD" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
@@ -1687,30 +1394,6 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209180.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198306.m3u8
 #EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV SD" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209181.m3u8
-#EXTINF:-1 type="stream" tvg-id="URSINHOS CARINHOSOS" tvg-logo="https://i.pinimg.com/originals/e8/b0/d0/e8b0d0967c7e434cfd20136facbf594b.png" group-title="CANAIS: DESENHOS 24HS",URSINHOS CARINHOSOS
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132610.m3u8
-#EXTINF:-1 type="stream" tvg-id="VAI QUE COLA" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5538c619612147.562dd614afffa.png" group-title="CANAIS: SÉRIES 24HS",VAI QUE COLA
-http://dns.padtv.net:80/live/luis9662/96622317carlos/42723.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 FULLHD" tvg-logo="http://nbrasil.biz:80/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209182.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 HD" tvg-logo="http://nbrasil.biz:80/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209183.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 HD - ALT" tvg-logo="http://nbrasil.biz:80/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198304.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 MEGA HITS FULLHD" tvg-logo="http://nbrasil.biz:80/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 MEGA HITS FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132274.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 SD" tvg-logo="http://nbrasil.biz:80/images/6fbc8f7363282676edc9abffdbb99f5e.png" group-title="CANAIS: VARIEDADES",VH1 SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209184.m3u8
-#EXTINF:-1 type="stream" tvg-id="VIVA FULLHD" tvg-logo="http://nbrasil.biz:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209185.m3u8
-#EXTINF:-1 type="stream" tvg-id="VIVA HD" tvg-logo="http://nbrasil.biz:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209186.m3u8
-#EXTINF:-1 type="stream" tvg-id="VIVA HD" tvg-logo="http://nbrasil.biz:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/40072.m3u8
-#EXTINF:-1 type="stream" tvg-id="VIVA HD - ALT" tvg-logo="http://nbrasil.biz:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198303.m3u8
-#EXTINF:-1 type="stream" tvg-id="VIVA SD" tvg-logo="http://nbrasil.biz:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA SD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209187.m3u8
 #EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL FULLHD" tvg-logo="http://nbrasil.biz:80/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209188.m3u8
 #EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD
@@ -1729,25 +1412,5 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/209192.m3u8
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198301.m3u8
 #EXTINF:-1 type="stream" tvg-id="WOOHOO SD" tvg-logo="http://nbrasil.biz:80/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="CANAIS: ESPORTES",WOOHOO SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/209193.m3u8
-#EXTINF:-1 type="stream" tvg-id="X-MAN" tvg-logo="https://i.pinimg.com/originals/67/81/14/6781145d1ce8598726fbb1260301008b.png" group-title="CANAIS: DESENHOS 24HS",X-MAN
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132295.m3u8
-#EXTINF:-1 type="stream" tvg-id="X-MEN" tvg-logo="https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/xmen-logo-png-5.png" group-title="CANAIS: DESENHOS 24HS",X-MEN
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132611.m3u8
-#EXTINF:-1 type="stream" tvg-id="X-MEN - WOLVERINE" tvg-logo="https://comofazeremcasa.net/wp-content/uploads/2020/01/desenho-do-wolverine-para-colorir-12.jpg" group-title="CANAIS: DESENHOS 24HS",X-MEN - WOLVERINE
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132781.m3u8
-#EXTINF:-1 type="stream" tvg-id="X-MEN EVOLUTION" tvg-logo="https://www.pngkit.com/png/detail/141-1410737_evolution-image-x-men-evolution-poster.png" group-title="CANAIS: DESENHOS 24HS",X-MEN EVOLUTION
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132790.m3u8
-#EXTINF:-1 type="stream" tvg-id="YOUTUBE 01 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",YOUTUBE 01 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209235.m3u8
-#EXTINF:-1 type="stream" tvg-id="YOUTUBE 02 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",YOUTUBE 02 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209236.m3u8
-#EXTINF:-1 type="stream" tvg-id="YOUTUBE 03 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",YOUTUBE 03 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209237.m3u8
-#EXTINF:-1 type="stream" tvg-id="YOUTUBE 04 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",YOUTUBE 04 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209238.m3u8
-#EXTINF:-1 type="stream" tvg-id="YOUTUBE 05 HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",YOUTUBE 05 HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/209239.m3u8
-#EXTINF:-1 type="stream" tvg-id="YU-GI-OH" tvg-logo="https://4.bp.blogspot.com/-aQgkqbEBQT8/Voq3RbKokzI/AAAAAAAACdo/pS7sxosX5BA/s1600/Logo%2BYu-Gi-Oh%2521%2B03.png" group-title="CANAIS: DESENHOS 24HS",YU-GI-OH
-http://dns.padtv.net:80/live/luis9662/96622317carlos/132612.m3u8
 #EXTINF:-1 type="stream" tvg-id="ZOOMOO HD - ALT" tvg-logo="http://nbrasil.biz:80/images/5f201d40ccb5422eba7a52505e1ab4b7.png" group-title="CANAIS: INFANTIS",ZOOMOO HD - ALT
 http://dns.padtv.net:80/live/luis9662/96622317carlos/198300.m3u8
