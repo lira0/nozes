@@ -694,11 +694,11 @@ http://dns.padtv.net:80/live/luis9662/96622317carlos/198364
 #EXTINF:-1 type="stream" tvg-id="HBO FAMILY SD" tvg-logo="http://nbrasil.biz:80/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CANAIS: HBO",HBO FAMILY SD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208992
 #EXTINF:-1 type="stream" tvg-id="HBO FULLHD" tvg-logo="http://nbrasil.biz:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS: HBO",HBO FULLHD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208993
+http://dns.padtv.net:80/live/luis9662/96622317carlos/208993.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="http://nbrasil.biz:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS: HBO",HBO HD
-http://dns.padtv.net:80/live/luis9662/96622317carlos/208994
+http://dns.padtv.net:80/live/luis9662/96622317carlos/208994.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO HD - ALT" tvg-logo="http://nbrasil.biz:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS: HBO",HBO HD - ALT
-http://dns.padtv.net:80/live/luis9662/96622317carlos/198363
+http://dns.padtv.net:80/live/luis9662/96622317carlos/198363.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO MUNDI FULLHD" tvg-logo="http://nbrasil.biz:80/images/47237531226e28d51e579f60ed7da7db.png" group-title="CANAIS: HBO",HBO MUNDI FULLHD
 http://dns.padtv.net:80/live/luis9662/96622317carlos/208995
 #EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://nbrasil.biz:80/images/47237531226e28d51e579f60ed7da7db.png" group-title="CANAIS: HBO",HBO MUNDI HD
