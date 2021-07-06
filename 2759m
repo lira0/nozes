@@ -1,4 +1,193 @@
+#EXTM3U
 #EXTM3U 
+#EXTINF: -1 tvg-id="Band" tvg-name="BAND 4K" s://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS", BAND 4K
+http://nbrasil.biz:80/live/luis9662/96622317carlos/58395.m3u8
+#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FULLHD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209206.m3u8
+#EXTINF: -1 tvg-name="BAND CAMPINAS HD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209207.m3u8
+#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS SD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209208.m3u8
+#EXTINF: -1 tvg-id="Band" tvg-name="BAND FULLHD" ://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132142.m3u8
+#EXTINF: -1 tvg-id="band.br" tvg-name="BAND HD" ://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/39889.m3u8
+#EXTINF: -1 tvg-id="Band News" tvg-name="BAND NEWS SD" ://nbrasil.biz:80/images/d64829bfcb5b6a7a537d6a274187041d.png" group-title="CANAIS: ABERTOS", BAND NEWS SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132473.m3u8
+#EXTINF: -1 tvg-id="band.br" tvg-name="BAND PA (RBATV)" ://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND PA (RBATV)
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98283.m3u8
+#EXTINF: -1 tvg-id="band.br" tvg-name="BAND RJ FULLHD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208864.m3u8
+#EXTINF: -1 tvg-id="band.br" tvg-name="BAND RJ HD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208865.m3u8
+#EXTINF: -1 tvg-name="BAND RJ HD - ALT" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198298.m3u8
+#EXTINF: -1 tvg-name="BAND RJ HD²" s://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ HD²
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198512.m3u8
+#EXTINF: -1 tvg-name="BAND RJ HD³" s://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ HD³
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198510.m3u8
+#EXTINF: -1 tvg-name="BAND RJ SD" s://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198509.m3u8
+#EXTINF: -1 tvg-id="band.rj.br" tvg-name="BAND RJ SD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208869.m3u8
+#EXTINF: -1 tvg-id="Band" tvg-name="BAND SD" s://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS", BAND SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132362.m3u8
+#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD - ALT" ://nbrasil.biz:80/images/ee1789a3b65fc1deba0d3b97de820e83.png" group-title="CANAIS: ABERTOS", BAND SP HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198439.m3u8
+#EXTINF: -1 tvg-name="BONS TEMPOS TV" ://nbrasil.biz:80/images/b91ad7a658efa0f072ec141991856bc3.png" group-title="CANAIS: ABERTOS", BONS TEMPOS TV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/210498.m3u8
+#EXTINF: -1 tvg-name="CAMOCIM WEB TV" tvg-logo="data:image/jpeg;base64,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" group-title="CANAIS: ABERTOS", CAMOCIM WEB TV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/210499.m3u8
+#EXTINF: -1 tvg-name="CANAL BRASIL FULLHD" group-title="CANAIS: ABERTOS", CANAL BRASIL FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208879.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL FULLHD" s://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="CANAIS: ABERTOS", CANAL BRASIL FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132147.m3u8
+#EXTINF: -1 tvg-name="CANAL BRASIL HD" group-title="CANAIS: ABERTOS", CANAL BRASIL HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208880.m3u8
+#EXTINF: -1 tvg-name="CANAL BRASIL SD" group-title="CANAIS: ABERTOS", CANAL BRASIL SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208881.m3u8
+#EXTINF: -1 tvg-name="CANAL DO BOI FULLHD" group-title="CANAIS: ABERTOS", CANAL DO BOI FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208882.m3u8
+#EXTINF: -1 tvg-name="CANAL DO BOI HD" group-title="CANAIS: ABERTOS", CANAL DO BOI HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208883.m3u8
+#EXTINF: -1 tvg-name="CANAL DO BOI SD" group-title="CANAIS: ABERTOS", CANAL DO BOI SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208884.m3u8
+#EXTINF: -1 tvg-name="CINE TRIANON TV" s://4.bp.blogspot.com/-O6b1vLp4rRM/XsdMGPXEjaI/AAAAAAAAC1w/ZF_1nR8W7kUECG6l_q8rZGydIl_k0ck4QCLcBGAsYHQ/s320/Screenshot_2020-05-22-00-47-49.png" group-title="CANAIS: ABERTOS", CINE TRIANON TV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98292.m3u8
+#EXTINF: -1 tvg-name="CLASSIQUE TV" s://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="CANAIS: ABERTOS", CLASSIQUE TV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98299.m3u8
+#EXTINF: -1 tvg-name="CLASSIQUE TV 2" s://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="CANAIS: ABERTOS", CLASSIQUE TV 2
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98318.m3u8
+#EXTINF: -1 tvg-name="CTV" s://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png" group-title="CANAIS: ABERTOS", CTV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98308.m3u8
+#EXTINF: -1 tvg-name="CULTURA HD - ALT" ://nbrasil.biz:80/images/4b0774afa697cbc031359fc34618b7c4.png" group-title="CANAIS: ABERTOS", CULTURA HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198412.m3u8
+#EXTINF: -1 tvg-id="futura.br" tvg-name="FUTURA HD" group-title="CANAIS: ABERTOS", FUTURA HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208964.m3u8
+#EXTINF: -1 tvg-name="FUTURA HD - ALT" ://nbrasil.biz:80/images/1f1e8104a5f513f5dd9927ed7c928316.png" group-title="CANAIS: ABERTOS", FUTURA HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198381.m3u8
+#EXTINF: -1 tvg-id="futura.br" tvg-name="FUTURA SD" group-title="CANAIS: ABERTOS", FUTURA SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/208965.m3u8
+#EXTINF: -1 tvg-id="Tv Gazeta SP HD" tvg-name="GAZETA ¹ SP" ://nbrasil.biz:80/images/0b6a222adaa081ef3201e6ee412314f1.png" group-title="CANAIS: ABERTOS", GAZETA ¹ SP
+http://nbrasil.biz:80/live/luis9662/96622317carlos/39895.m3u8
+#EXTINF: -1 tvg-id="Tv Gazeta SP HD" tvg-name="TV GAZETA HD" ://nbrasil.biz:80/images/35dd13721f6cd18b1b96916168600a60.png" group-title="CANAIS: ABERTOS", TV GAZETA HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98304.m3u8
+#EXTINF: -1 tvg-id="gazeta.br" tvg-name="TV GAZETA NORTE MINEIRA" ://nbrasil.biz:80/images/86a4ddf13b37417deaf639bab101e0a5.png" group-title="CANAIS: ABERTOS", TV GAZETA NORTE MINEIRA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98317.m3u8
+#EXTINF: -1 tvg-name="GOSPEL CARTOON" s://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png" group-title="CANAIS: ABERTOS", GOSPEL CARTOON
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98311.m3u8
+#EXTINF: -1 tvg-name="NOSSA TV(TV CULTURA RN)" s://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="CANAIS: ABERTOS", NOSSA TV(TV CULTURA RN)
+http://nbrasil.biz:80/live/luis9662/96622317carlos/210502.m3u8
+#EXTINF: -1 tvg-name="PLAY GOSPEL TV" s://play-lh.googleusercontent.com/hjVEqqVFS4Yxw7Omf09SeJVm9vGZMMpMXq4Y7CFWGMKzS9vCMdkU6JN_KwTq-1Zq7uY" group-title="CANAIS: ABERTOS", PLAY GOSPEL TV
+http://nbrasil.biz:80/live/luis9662/96622317carlos/210500.m3u8
+#EXTINF: -1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" s://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS: ABERTOS", REDE TV FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132243.m3u8
+#EXTINF: -1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" ://nbrasil.biz:80/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS: ABERTOS", REDE TV HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/39920.m3u8
+#EXTINF: -1 tvg-name="REDE TV HD - ALT" ://nbrasil.biz:80/images/70fd0848f727e8187956b3fa9167d3b5.png" group-title="CANAIS: ABERTOS", REDE TV HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198330.m3u8
+#EXTINF: -1 tvg-name="REDE TV SUL1" s://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="CANAIS: ABERTOS", REDE TV SUL1
+http://nbrasil.biz:80/live/luis9662/96622317carlos/111098.m3u8
+#EXTINF: -1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD - ALT" ://nbrasil.biz:80/images/f1cbc2db03d3a6cc3cf7de0a967415b0.png" group-title="CANAIS: ABERTOS", REDE VIDA HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198329.m3u8
+#EXTINF: -1 tvg-name="SBT GOIAS HD - ALT" ://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT GOIAS HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198328.m3u8
+#EXTINF: -1 tvg-id="SBT" tvg-name="SBT HD" ://nbrasil.biz:80/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS", SBT HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/42556.m3u8
+#EXTINF: -1 tvg-name="SBT NORDESTE HD - ALT" ://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT NORDESTE HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198326.m3u8
+#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ FULLHD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209095.m3u8
+#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ HD" ://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209096.m3u8
+#EXTINF: -1 tvg-name="SBT RJ HD - ALT" ://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ HD - ALT
+http://nbrasil.biz:80/live/luis9662/96622317carlos/198325.m3u8
+#EXTINF: -1 tvg-id="SBT" tvg-name="SBT RJ HD¹" ://nbrasil.biz:80/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS", SBT RJ HD¹
+http://nbrasil.biz:80/live/luis9662/96622317carlos/39900.m3u8
+#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ SD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209097.m3u8
+#EXTINF: -1 tvg-id="SBT HD" tvg-name="SBT SD" ://nbrasil.biz:80/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="CANAIS: ABERTOS", SBT SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132363.m3u8
+#EXTINF: -1 tvg-id="SBT" tvg-name="SBT TV ALTEROSA HD" s://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="CANAIS: ABERTOS", SBT TV ALTEROSA HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132947.m3u8
+#EXTINF: -1 tvg-name="SBT VTV CAMPINAS FULLHD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209203.m3u8
+#EXTINF: -1 tvg-name="SBT VTV CAMPINAS HD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209204.m3u8
+#EXTINF: -1 tvg-name="SBT VTV CAMPINAS SD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209205.m3u8
+#EXTINF: -1 tvg-name="TV ABERTA SÃO PAULO" s://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="CANAIS: ABERTOS", TV ABERTA SÃO PAULO
+http://nbrasil.biz:80/live/luis9662/96622317carlos/204439.m3u8
+#EXTINF: -1 tvg-name="TV AGUA BOA" ://www.cxtv.com.br/img/Tvs/Logo/d2c576b1bec374ee33c01714244201bd.jpg" group-title="CANAIS: ABERTOS", TV AGUA BOA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98290.m3u8
+#EXTINF: -1 tvg-name="TV ALTIORA" s://altioratv.com.br/images/footer-logo.png" group-title="CANAIS: ABERTOS", TV ALTIORA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/197497.m3u8
+#EXTINF: -1 tvg-id="tv.aratu.br" tvg-name="TV ARATU HD" ://nbrasil.biz:80/images/79037da0558cd2d0b08bbc6e9254fab3.png" group-title="CANAIS: ABERTOS", TV ARATU HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/212199.m3u8
+#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FULLHD" group-title="CANAIS: ABERTOS", TV BRASIL FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209167.m3u8
+#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" group-title="CANAIS: ABERTOS", TV BRASIL HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209168.m3u8
+#EXTINF: -1 tvg-name="TV BRASIL SD" group-title="CANAIS: ABERTOS", TV BRASIL SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209169.m3u8
+#EXTINF: -1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" s://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="CANAIS: ABERTOS", TV CULTURA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98296.m3u8
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA FULLHD" group-title="CANAIS: ABERTOS", TV CULTURA FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209170.m3u8
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" group-title="CANAIS: ABERTOS", TV CULTURA HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209171.m3u8
+#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" group-title="CANAIS: ABERTOS", TV CULTURA SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209172.m3u8
+#EXTINF: -1 tvg-id="TV Diário" tvg-name="TV DIARIO FULLHD" s://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS: ABERTOS", TV DIARIO FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/132267.m3u8
+#EXTINF: -1 tvg-name="TV DIGITAL BIRIGUI" s://2.bp.blogspot.com/-FyuPxPq-klc/XQ0tqGbS0KI/AAAAAAAABME/q0GLmUzUG18A3R0IRqW-7u1jnOkk_ogpQCPcBGAYYCw/s320/Screenshot_2019-06-21-16-17-17.png%22" group-title="CANAIS: ABERTOS", TV DIGITAL BIRIGUI
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98302.m3u8
+#EXTINF: -1 tvg-name="TV JAGUAR" ://nbrasil.biz:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CANAIS: ABERTOS", TV JAGUAR
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209902.m3u8
+#EXTINF: -1 tvg-name="TV JAPI" s://1.bp.blogspot.com/-prllIM4jwE8/X2-G2FwMizI/AAAAAAAADXE/75oV-qj3jR8eH5jfjLgDRMxmdcUVJ-nkgCPcBGAYYCw/s0/TV%2BJAPI.png" group-title="CANAIS: ABERTOS", TV JAPI
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98289.m3u8
+#EXTINF: -1 tvg-name="TV JORNAL DO NORDESTE" s://2.bp.blogspot.com/-zZN76xxZcpg/Xt_EsRKjmII/AAAAAAAAC-4/qXbnkSGOuqUJQ7eMolPBlzTmb3pUqiv9QCPcBGAYYCw/s320/Screenshot_2020-06-09-14-10-37.png" group-title="CANAIS: ABERTOS", TV JORNAL DO NORDESTE
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98315.m3u8
+#EXTINF: -1 tvg-id="TV Justiça" tvg-name="TV JUSTIÇA" ://nbrasil.biz:80/images/54319c0c314f2faec48d7b703a413ba0.png" group-title="CANAIS: ABERTOS", TV JUSTIÇA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/131568.m3u8
+#EXTINF: -1 tvg-name="TV LIBERDADE 2" s://2.bp.blogspot.com/-f865x_mV2PY/XX10wZt8MCI/AAAAAAAAB0k/VYtPiJFnwPAx82adYhXFjlQ9TuzswlxugCLcBGAsYHQ/s320/Screenshot_2019-09-14-20-14-15.png" group-title="CANAIS: ABERTOS", TV LIBERDADE 2
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98320.m3u8
+#EXTINF: -1 tvg-name="TV MANCHETE" ://nbrasil.biz:80/images/0fcc96a287f1c9439ddeaa7614460d04.png" group-title="CANAIS: ABERTOS", TV MANCHETE
+http://nbrasil.biz:80/live/luis9662/96622317carlos/75388.m3u8
+#EXTINF: -1 tvg-name="TV METROPOLE" ://nbrasil.biz:80/images/21e1dd068ac6a45473431c0caeabbc81.png" group-title="CANAIS: ABERTOS", TV METROPOLE
+http://nbrasil.biz:80/live/luis9662/96622317carlos/210503.m3u8
+#EXTINF: -1 tvg-id="nordestv.br" tvg-name="TV NORDESTE" ://nbrasil.biz:80/images/9ebc0e27e6c7d782433b0323af5a8c23.png" group-title="CANAIS: ABERTOS", TV NORDESTE
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209900.m3u8
+#EXTINF: -1 tvg-name="TV NOVA ONDA" s://3.bp.blogspot.com/-S-iIlMTVLr8/XqX1Bwf0XMI/AAAAAAAACpI/2CEospJ1RQIdMyukE99W4IcpZ4k1epBUgCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-49-57.png" group-title="CANAIS: ABERTOS", TV NOVA ONDA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98297.m3u8
+#EXTINF: -1 tvg-id="Playtv.br" tvg-name="TV PADRE CICERO" ://nbrasil.biz:80/images/32fb647056169e4e07fbeec3a83ef129.png" group-title="CANAIS: ABERTOS", TV PADRE CICERO
+http://nbrasil.biz:80/live/luis9662/96622317carlos/209901.m3u8
+#EXTINF: -1 tvg-name="TV POVO" ://nbrasil.biz:80/images/24f3936f68b7d3ec215c78c99ef18ca2.png" group-title="CANAIS: ABERTOS", TV POVO
+http://nbrasil.biz:80/live/luis9662/96622317carlos/205310.m3u8
+#EXTINF: -1 tvg-name="TV SERIES(Anos 60,70,80e90)" s://4.bp.blogspot.com/-1WacgxpYRQw/XyiOj13rilI/AAAAAAAADH4/0QI8x1hyzpcGKGR_MNJw5wFmo3RF-b50gCLcBGAsYHQ/s320/Screenshot_2020-08-03-19-18-35.png" group-title="CANAIS: ABERTOS", 80e90)
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98316.m3u8
+#EXTINF: -1 tvg-name="TV SERRA VERDE" s://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="CANAIS: ABERTOS", TV SERRA VERDE
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98307.m3u8
+#EXTINF: -1 tvg-name="TV SERTÃO" s://i.ibb.co/fp4CNW4/SERTAO-TV.png" group-title="CANAIS: ABERTOS", TV SERTÃO
+http://nbrasil.biz:80/live/luis9662/96622317carlos/128757.m3u8
+#EXTINF: -1 tvg-name="TV UNIÃO DE NATAL" s://1.bp.blogspot.com/-1TCGsaQEg9s/XRZKVMdeEEI/AAAAAAAABO8/0qSSE4Mih4s0bt1ukoar-LdQaGr06VTqQCLcBGAs/s320/Screenshot_2019-06-28-14-08-47.png" group-title="CANAIS: ABERTOS", TV UNIÃO DE NATAL
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98321.m3u8
+#EXTINF: -1 tvg-name="WEB TV PROGRESSO" s://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="CANAIS: ABERTOS", WEB TV PROGRESSO
+http://nbrasil.biz:80/live/luis9662/96622317carlos/98298.m3u8
+#EXTINF: -1 tvg-id="tve.bahia.br" tvg-name="TVE BAHIA" ://nbrasil.biz:80/images/82dfcb09043c1187fe1a48ecec3ff633.png" group-title="CANAIS: ABERTOS", TVE BAHIA
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226366.m3u8
+#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS FULLHD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226776.m3u8
+#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226777.m3u8
+#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS SD" ://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226778.m3u8
+#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS FULLHD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS FULLHD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226779.m3u8
+#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS HD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS HD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226780.m3u8
+#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS SD" ://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS SD
+http://nbrasil.biz:80/live/luis9662/96622317carlos/226781.m3u8
 #EXTINF: -1 tvg-id="A&E FHD" tvg-name="A&E FULLHD" tvg-logo="http://nbrasil.biz:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES", A&E FULLHD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/208849.m3u8
 #EXTINF: -1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://nbrasil.biz:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES", A&E HD
@@ -433,202 +622,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/209100.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/209098.m3u8
 #EXTINF: -1 tvg-id="smithsonian.ar" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/1e2d5cf712a0023e9bf778d6684714c0.png" group-title="CANAIS: DOCUMENTARIOS", SMITHSONIAN CHANNEL HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/209099.m3u8
-#EXTINF: -1 tvg-id="Band" tvg-name="BAND 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS", BAND 4K
-http://nbrasil.biz:80/live/luis9662/96622317carlos/58395.m3u8
-#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FULLHD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209206.m3u8
-#EXTINF: -1 tvg-name="BAND CAMPINAS HD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209207.m3u8
-#EXTINF: -1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS SD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND CAMPINAS SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209208.m3u8
-#EXTINF: -1 tvg-id="Band" tvg-name="BAND FULLHD" tvg-logo="http://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132142.m3u8
-#EXTINF: -1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="http://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/39889.m3u8
-#EXTINF: -1 tvg-id="Band News" tvg-name="BAND NEWS SD" tvg-logo="http://nbrasil.biz:80/images/d64829bfcb5b6a7a537d6a274187041d.png" group-title="CANAIS: ABERTOS", BAND NEWS SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132473.m3u8
-#EXTINF: -1 tvg-id="band.br" tvg-name="BAND PA (RBATV)" tvg-logo="http://nbrasil.biz:80/images/b737d4c99a392be3157a83cb14d6b6fe.png" group-title="CANAIS: ABERTOS", BAND PA (RBATV)
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98283.m3u8
-#EXTINF: -1 tvg-id="band.br" tvg-name="BAND RJ FULLHD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208864.m3u8
-#EXTINF: -1 tvg-id="band.br" tvg-name="BAND RJ HD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208865.m3u8
-#EXTINF: -1 tvg-name="BAND RJ HD - ALT" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198298.m3u8
-#EXTINF: -1 tvg-name="BAND RJ HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ HD²
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198512.m3u8
-#EXTINF: -1 tvg-name="BAND RJ HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ HD³
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198510.m3u8
-#EXTINF: -1 tvg-name="BAND RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS: ABERTOS", BAND RJ SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198509.m3u8
-#EXTINF: -1 tvg-id="band.rj.br" tvg-name="BAND RJ SD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RJ SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208869.m3u8
-#EXTINF: -1 tvg-id="Band" tvg-name="BAND SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS", BAND SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132362.m3u8
-#EXTINF: -1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD - ALT" tvg-logo="http://nbrasil.biz:80/images/ee1789a3b65fc1deba0d3b97de820e83.png" group-title="CANAIS: ABERTOS", BAND SP HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198439.m3u8
-#EXTINF: -1 tvg-name="BONS TEMPOS TV" tvg-logo="http://nbrasil.biz:80/images/b91ad7a658efa0f072ec141991856bc3.png" group-title="CANAIS: ABERTOS", BONS TEMPOS TV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/210498.m3u8
-#EXTINF: -1 tvg-name="CAMOCIM WEB TV" tvg-logo="data:image/jpeg;base64,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" group-title="CANAIS: ABERTOS", CAMOCIM WEB TV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/210499.m3u8
-#EXTINF: -1 tvg-name="CANAL BRASIL FULLHD" group-title="CANAIS: ABERTOS", CANAL BRASIL FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208879.m3u8
-#EXTINF: -1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="CANAIS: ABERTOS", CANAL BRASIL FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132147.m3u8
-#EXTINF: -1 tvg-name="CANAL BRASIL HD" group-title="CANAIS: ABERTOS", CANAL BRASIL HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208880.m3u8
-#EXTINF: -1 tvg-name="CANAL BRASIL SD" group-title="CANAIS: ABERTOS", CANAL BRASIL SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208881.m3u8
-#EXTINF: -1 tvg-name="CANAL DO BOI FULLHD" group-title="CANAIS: ABERTOS", CANAL DO BOI FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208882.m3u8
-#EXTINF: -1 tvg-name="CANAL DO BOI HD" group-title="CANAIS: ABERTOS", CANAL DO BOI HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208883.m3u8
-#EXTINF: -1 tvg-name="CANAL DO BOI SD" group-title="CANAIS: ABERTOS", CANAL DO BOI SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208884.m3u8
-#EXTINF: -1 tvg-name="CINE TRIANON TV" tvg-logo="https://4.bp.blogspot.com/-O6b1vLp4rRM/XsdMGPXEjaI/AAAAAAAAC1w/ZF_1nR8W7kUECG6l_q8rZGydIl_k0ck4QCLcBGAsYHQ/s320/Screenshot_2020-05-22-00-47-49.png" group-title="CANAIS: ABERTOS", CINE TRIANON TV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98292.m3u8
-#EXTINF: -1 tvg-name="CLASSIQUE TV" tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="CANAIS: ABERTOS", CLASSIQUE TV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98299.m3u8
-#EXTINF: -1 tvg-name="CLASSIQUE TV 2" tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="CANAIS: ABERTOS", CLASSIQUE TV 2
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98318.m3u8
-#EXTINF: -1 tvg-name="CTV" tvg-logo="https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png" group-title="CANAIS: ABERTOS", CTV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98308.m3u8
-#EXTINF: -1 tvg-name="CULTURA HD - ALT" tvg-logo="http://nbrasil.biz:80/images/4b0774afa697cbc031359fc34618b7c4.png" group-title="CANAIS: ABERTOS", CULTURA HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198412.m3u8
-#EXTINF: -1 tvg-id="futura.br" tvg-name="FUTURA FULLHD" group-title="CANAIS: ABERTOS", FUTURA FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208963.m3u8
-#EXTINF: -1 tvg-id="futura.br" tvg-name="FUTURA HD" group-title="CANAIS: ABERTOS", FUTURA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208964.m3u8
-#EXTINF: -1 tvg-name="FUTURA HD - ALT" tvg-logo="http://nbrasil.biz:80/images/1f1e8104a5f513f5dd9927ed7c928316.png" group-title="CANAIS: ABERTOS", FUTURA HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198381.m3u8
-#EXTINF: -1 tvg-id="futura.br" tvg-name="FUTURA SD" group-title="CANAIS: ABERTOS", FUTURA SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/208965.m3u8
-#EXTINF: -1 tvg-id="Tv Gazeta SP HD" tvg-name="GAZETA ¹ SP" tvg-logo="http://nbrasil.biz:80/images/0b6a222adaa081ef3201e6ee412314f1.png" group-title="CANAIS: ABERTOS", GAZETA ¹ SP
-http://nbrasil.biz:80/live/luis9662/96622317carlos/39895.m3u8
-#EXTINF: -1 tvg-id="Tv Gazeta SP HD" tvg-name="TV GAZETA HD" tvg-logo="http://nbrasil.biz:80/images/35dd13721f6cd18b1b96916168600a60.png" group-title="CANAIS: ABERTOS", TV GAZETA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98304.m3u8
-#EXTINF: -1 tvg-id="gazeta.br" tvg-name="TV GAZETA NORTE MINEIRA" tvg-logo="http://nbrasil.biz:80/images/86a4ddf13b37417deaf639bab101e0a5.png" group-title="CANAIS: ABERTOS", TV GAZETA NORTE MINEIRA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98317.m3u8
-#EXTINF: -1 tvg-name="GOSPEL CARTOON" tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png" group-title="CANAIS: ABERTOS", GOSPEL CARTOON
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98311.m3u8
-#EXTINF: -1 tvg-name="NOSSA TV(TV CULTURA RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="CANAIS: ABERTOS", NOSSA TV(TV CULTURA RN)
-http://nbrasil.biz:80/live/luis9662/96622317carlos/210502.m3u8
-#EXTINF: -1 tvg-name="PLAY GOSPEL TV" tvg-logo="https://play-lh.googleusercontent.com/hjVEqqVFS4Yxw7Omf09SeJVm9vGZMMpMXq4Y7CFWGMKzS9vCMdkU6JN_KwTq-1Zq7uY" group-title="CANAIS: ABERTOS", PLAY GOSPEL TV
-http://nbrasil.biz:80/live/luis9662/96622317carlos/210500.m3u8
-#EXTINF: -1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS: ABERTOS", REDE TV FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132243.m3u8
-#EXTINF: -1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" tvg-logo="http://nbrasil.biz:80/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS: ABERTOS", REDE TV HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/39920.m3u8
-#EXTINF: -1 tvg-name="REDE TV HD - ALT" tvg-logo="http://nbrasil.biz:80/images/70fd0848f727e8187956b3fa9167d3b5.png" group-title="CANAIS: ABERTOS", REDE TV HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198330.m3u8
-#EXTINF: -1 tvg-name="REDE TV SUL1" tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="CANAIS: ABERTOS", REDE TV SUL1
-http://nbrasil.biz:80/live/luis9662/96622317carlos/111098.m3u8
-#EXTINF: -1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD - ALT" tvg-logo="http://nbrasil.biz:80/images/f1cbc2db03d3a6cc3cf7de0a967415b0.png" group-title="CANAIS: ABERTOS", REDE VIDA HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198329.m3u8
-#EXTINF: -1 tvg-name="SBT GOIAS HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT GOIAS HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198328.m3u8
-#EXTINF: -1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://nbrasil.biz:80/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS", SBT HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/42556.m3u8
-#EXTINF: -1 tvg-name="SBT NORDESTE HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT NORDESTE HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198326.m3u8
-#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ FULLHD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209095.m3u8
-#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209096.m3u8
-#EXTINF: -1 tvg-name="SBT RJ HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ HD - ALT
-http://nbrasil.biz:80/live/luis9662/96622317carlos/198325.m3u8
-#EXTINF: -1 tvg-id="SBT" tvg-name="SBT RJ HD¹" tvg-logo="http://nbrasil.biz:80/images/908acd0d6203ce2887dcb9d42cbcc741.png" group-title="CANAIS: ABERTOS", SBT RJ HD¹
-http://nbrasil.biz:80/live/luis9662/96622317carlos/39900.m3u8
-#EXTINF: -1 tvg-id="sbt.br" tvg-name="SBT RJ SD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RJ SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209097.m3u8
-#EXTINF: -1 tvg-id="SBT HD" tvg-name="SBT SD" tvg-logo="http://nbrasil.biz:80/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="CANAIS: ABERTOS", SBT SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132363.m3u8
-#EXTINF: -1 tvg-id="SBT" tvg-name="SBT TV ALTEROSA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="CANAIS: ABERTOS", SBT TV ALTEROSA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132947.m3u8
-#EXTINF: -1 tvg-id="SBT HD" tvg-name="SBT TV JANGADEIRO HD" tvg-logo="http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT TV JANGADEIRO HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/136430.m3u8
-#EXTINF: -1 tvg-name="SBT TV SERRA DOURADA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS", SBT TV SERRA DOURADA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/39898.m3u8
-#EXTINF: -1 tvg-name="SBT VTV CAMPINAS FULLHD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209203.m3u8
-#EXTINF: -1 tvg-name="SBT VTV CAMPINAS HD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209204.m3u8
-#EXTINF: -1 tvg-name="SBT VTV CAMPINAS SD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT VTV CAMPINAS SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209205.m3u8
-#EXTINF: -1 tvg-name="TV ABERTA SÃO PAULO" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="CANAIS: ABERTOS", TV ABERTA SÃO PAULO
-http://nbrasil.biz:80/live/luis9662/96622317carlos/204439.m3u8
-#EXTINF: -1 tvg-name="TV AGUA BOA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2c576b1bec374ee33c01714244201bd.jpg" group-title="CANAIS: ABERTOS", TV AGUA BOA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98290.m3u8
-#EXTINF: -1 tvg-name="TV ALTIORA" tvg-logo="https://altioratv.com.br/images/footer-logo.png" group-title="CANAIS: ABERTOS", TV ALTIORA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/197497.m3u8
-#EXTINF: -1 tvg-id="tv.aratu.br" tvg-name="TV ARATU HD" tvg-logo="http://nbrasil.biz:80/images/79037da0558cd2d0b08bbc6e9254fab3.png" group-title="CANAIS: ABERTOS", TV ARATU HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/212199.m3u8
-#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FULLHD" group-title="CANAIS: ABERTOS", TV BRASIL FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209167.m3u8
-#EXTINF: -1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" group-title="CANAIS: ABERTOS", TV BRASIL HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209168.m3u8
-#EXTINF: -1 tvg-name="TV BRASIL SD" group-title="CANAIS: ABERTOS", TV BRASIL SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209169.m3u8
-#EXTINF: -1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="CANAIS: ABERTOS", TV CULTURA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98296.m3u8
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA FULLHD" group-title="CANAIS: ABERTOS", TV CULTURA FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209170.m3u8
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" group-title="CANAIS: ABERTOS", TV CULTURA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209171.m3u8
-#EXTINF: -1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" group-title="CANAIS: ABERTOS", TV CULTURA SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209172.m3u8
-#EXTINF: -1 tvg-id="TV Diário" tvg-name="TV DIARIO FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS: ABERTOS", TV DIARIO FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/132267.m3u8
-#EXTINF: -1 tvg-name="TV DIGITAL BIRIGUI" tvg-logo="https://2.bp.blogspot.com/-FyuPxPq-klc/XQ0tqGbS0KI/AAAAAAAABME/q0GLmUzUG18A3R0IRqW-7u1jnOkk_ogpQCPcBGAYYCw/s320/Screenshot_2019-06-21-16-17-17.png%22" group-title="CANAIS: ABERTOS", TV DIGITAL BIRIGUI
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98302.m3u8
-#EXTINF: -1 tvg-name="TV JAGUAR" tvg-logo="http://nbrasil.biz:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CANAIS: ABERTOS", TV JAGUAR
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209902.m3u8
-#EXTINF: -1 tvg-name="TV JAPI" tvg-logo="https://1.bp.blogspot.com/-prllIM4jwE8/X2-G2FwMizI/AAAAAAAADXE/75oV-qj3jR8eH5jfjLgDRMxmdcUVJ-nkgCPcBGAYYCw/s0/TV%2BJAPI.png" group-title="CANAIS: ABERTOS", TV JAPI
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98289.m3u8
-#EXTINF: -1 tvg-name="TV JORNAL DO NORDESTE" tvg-logo="https://2.bp.blogspot.com/-zZN76xxZcpg/Xt_EsRKjmII/AAAAAAAAC-4/qXbnkSGOuqUJQ7eMolPBlzTmb3pUqiv9QCPcBGAYYCw/s320/Screenshot_2020-06-09-14-10-37.png" group-title="CANAIS: ABERTOS", TV JORNAL DO NORDESTE
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98315.m3u8
-#EXTINF: -1 tvg-id="TV Justiça" tvg-name="TV JUSTIÇA" tvg-logo="http://nbrasil.biz:80/images/54319c0c314f2faec48d7b703a413ba0.png" group-title="CANAIS: ABERTOS", TV JUSTIÇA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/131568.m3u8
-#EXTINF: -1 tvg-name="TV LIBERDADE 2" tvg-logo="https://2.bp.blogspot.com/-f865x_mV2PY/XX10wZt8MCI/AAAAAAAAB0k/VYtPiJFnwPAx82adYhXFjlQ9TuzswlxugCLcBGAsYHQ/s320/Screenshot_2019-09-14-20-14-15.png" group-title="CANAIS: ABERTOS", TV LIBERDADE 2
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98320.m3u8
-#EXTINF: -1 tvg-name="TV MANCHETE" tvg-logo="http://nbrasil.biz:80/images/0fcc96a287f1c9439ddeaa7614460d04.png" group-title="CANAIS: ABERTOS", TV MANCHETE
-http://nbrasil.biz:80/live/luis9662/96622317carlos/75388.m3u8
-#EXTINF: -1 tvg-name="TV METROPOLE" tvg-logo="http://nbrasil.biz:80/images/21e1dd068ac6a45473431c0caeabbc81.png" group-title="CANAIS: ABERTOS", TV METROPOLE
-http://nbrasil.biz:80/live/luis9662/96622317carlos/210503.m3u8
-#EXTINF: -1 tvg-id="nordestv.br" tvg-name="TV NORDESTE" tvg-logo="http://nbrasil.biz:80/images/9ebc0e27e6c7d782433b0323af5a8c23.png" group-title="CANAIS: ABERTOS", TV NORDESTE
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209900.m3u8
-#EXTINF: -1 tvg-name="TV NOVA ONDA" tvg-logo="https://3.bp.blogspot.com/-S-iIlMTVLr8/XqX1Bwf0XMI/AAAAAAAACpI/2CEospJ1RQIdMyukE99W4IcpZ4k1epBUgCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-49-57.png" group-title="CANAIS: ABERTOS", TV NOVA ONDA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98297.m3u8
-#EXTINF: -1 tvg-id="Playtv.br" tvg-name="TV PADRE CICERO" tvg-logo="http://nbrasil.biz:80/images/32fb647056169e4e07fbeec3a83ef129.png" group-title="CANAIS: ABERTOS", TV PADRE CICERO
-http://nbrasil.biz:80/live/luis9662/96622317carlos/209901.m3u8
-#EXTINF: -1 tvg-name="TV POVO" tvg-logo="http://nbrasil.biz:80/images/24f3936f68b7d3ec215c78c99ef18ca2.png" group-title="CANAIS: ABERTOS", TV POVO
-http://nbrasil.biz:80/live/luis9662/96622317carlos/205310.m3u8
-#EXTINF: -1 tvg-name="TV SERIES(Anos 60,70,80e90)" tvg-logo="https://4.bp.blogspot.com/-1WacgxpYRQw/XyiOj13rilI/AAAAAAAADH4/0QI8x1hyzpcGKGR_MNJw5wFmo3RF-b50gCLcBGAsYHQ/s320/Screenshot_2020-08-03-19-18-35.png" group-title="CANAIS: ABERTOS", 80e90)
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98316.m3u8
-#EXTINF: -1 tvg-name="TV SERRA VERDE" tvg-logo="https://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="CANAIS: ABERTOS", TV SERRA VERDE
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98307.m3u8
-#EXTINF: -1 tvg-name="TV SERTÃO" tvg-logo="https://i.ibb.co/fp4CNW4/SERTAO-TV.png" group-title="CANAIS: ABERTOS", TV SERTÃO
-http://nbrasil.biz:80/live/luis9662/96622317carlos/128757.m3u8
-#EXTINF: -1 tvg-name="TV UNIÃO DE NATAL" tvg-logo="https://1.bp.blogspot.com/-1TCGsaQEg9s/XRZKVMdeEEI/AAAAAAAABO8/0qSSE4Mih4s0bt1ukoar-LdQaGr06VTqQCLcBGAs/s320/Screenshot_2019-06-28-14-08-47.png" group-title="CANAIS: ABERTOS", TV UNIÃO DE NATAL
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98321.m3u8
-#EXTINF: -1 tvg-name="TVC CEARÁ" tvg-logo="http://nbrasil.biz:80/images/c21dcfdb83d2b842dbe253874e6ddc81.png" group-title="CANAIS: ABERTOS", TVC CEARÁ
-http://nbrasil.biz:80/live/luis9662/96622317carlos/205311.m3u8
-#EXTINF: -1 tvg-name="WEB TV PROGRESSO" tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="CANAIS: ABERTOS", WEB TV PROGRESSO
-http://nbrasil.biz:80/live/luis9662/96622317carlos/98298.m3u8
-#EXTINF: -1 tvg-id="tve.bahia.br" tvg-name="TVE BAHIA" tvg-logo="http://nbrasil.biz:80/images/82dfcb09043c1187fe1a48ecec3ff633.png" group-title="CANAIS: ABERTOS", TVE BAHIA
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226366.m3u8
-#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS FULLHD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226776.m3u8
-#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226777.m3u8
-#EXTINF: -1 tvg-id="sbt.rs.br" tvg-name="SBT RS SD" tvg-logo="http://gerir.nbrasil.biz/resize.php?max=42&url=http://nbrasil.biz:80/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS: ABERTOS", SBT RS SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226778.m3u8
-#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS FULLHD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226779.m3u8
-#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS HD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226780.m3u8
-#EXTINF: -1 tvg-id="band.porto.alegre.br" tvg-name="BAND RS SD" tvg-logo="http://nbrasil.biz:80/images/84447c1c037e891da9824b86b4ab65d1.png" group-title="CANAIS: ABERTOS", BAND RS SD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/226781.m3u8
 #EXTINF: -1 tvg-id="bandnews.br" tvg-name="BAND NEWS FULLHD" tvg-logo="http://nbrasil.biz:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="CANAIS: NOTICIAS", BAND NEWS FULLHD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/208866.m3u8
 #EXTINF: -1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://nbrasil.biz:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="CANAIS: NOTICIAS", BAND NEWS HD
@@ -865,8 +858,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/205897.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205919.m3u8
 #EXTINF: -1 tvg-id="globo.bahia.br" tvg-name="GLOBO¹ TV BAHIA FULLHD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ TV BAHIA FULLHD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205840.m3u8
-#EXTINF: -1 tvg-id="globo.bahia.br" tvg-name="GLOBO¹ TV BAHIA HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ TV BAHIA HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/205886.m3u8
 #EXTINF: -1 tvg-id="tv.bahia.br" tvg-name="GLOBO¹ TV BAHIA SD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ TV BAHIA SD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205905.m3u8
 #EXTINF: -1 tvg-id="globo.bahia.br" tvg-name="GLOBO² TV BAHIA SD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO² TV BAHIA SD
@@ -897,7 +888,7 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/205920.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205921.m3u8
 #EXTINF: -1 tvg-id="tv.sergipe.br" tvg-name="GLOBO² TV Sergipe HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO² TV Sergipe HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205932.m3u8
-#EXTINF: -1 tvg-id="Globo TV Vanguarda" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+#EXTINF: -1 tvg-id="Globo TV Vanguarda" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS FULLHS" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO TV VANGUARDA S.J DOS CAMPOS FULLHS
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205936.m3u8
 #EXTINF: -1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO² TV VERDES MARES FORTALEZA SD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO² TV VERDES MARES FORTALEZA SD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205937.m3u8
@@ -913,8 +904,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/205864.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205850.m3u8
 #EXTINF: -1 tvg-id="globo.pt" tvg-name="GLOBO¹ NACIONAL FULLHD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ NACIONAL FULLHD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205857.m3u8
-#EXTINF: -1 tvg-id="globo.nordeste.br" tvg-name="GLOBO¹ NORDESTE FULLHD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ NORDESTE FULLHD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/205841.m3u8
 #EXTINF: -1 tvg-id="globo.nordeste.br" tvg-name="GLOBO¹ NORDESTE HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ NORDESTE HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205875.m3u8
 #EXTINF: -1 tvg-id="globo.nordeste.br" tvg-name="GLOBO¹ NORDESTE SD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ NORDESTE SD
@@ -957,8 +946,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/205855.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205836.m3u8
 #EXTINF: -1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO¹ TV VERDES MARES HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO¹ TV VERDES MARES HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/205884.m3u8
-#EXTINF: -1 tvg-id="TV Diário" tvg-name="TV DIARIO HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", TV DIARIO HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/220452.m3u8
 #EXTINF: -1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV PORTO ALEGRE FULLHD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO RBS TV PORTO ALEGRE FULLHD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/226770.m3u8
 #EXTINF: -1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="http://nbrasil.biz:80/images/90113a455af7577964f0bc8215e3c091.png" group-title="CANAIS: GLOBO", GLOBO RBS TV PORTO ALEGRE HD
@@ -1103,12 +1090,8 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/209085.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/215825.m3u8
 #EXTINF: -1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ FULLHD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV RJ FULLHD²
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211751.m3u8
-#EXTINF: -1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ HD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV RJ HD²
-http://nbrasil.biz:80/live/luis9662/96622317carlos/211762.m3u8
 #EXTINF: -1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ SD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV RJ SD²
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211753.m3u8
-#EXTINF: -1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD*" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD RJ HD*
-http://nbrasil.biz:80/live/luis9662/96622317carlos/211787.m3u8
 #EXTINF: -1 tvg-id="record.br" tvg-name="RECORD RJ SD*" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD RJ SD*
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211788.m3u8
 #EXTINF: -1 tvg-id="Rederecord.br" tvg-name="Record RJ" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", Record RJ
@@ -1171,8 +1154,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/211745.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211765.m3u8
 #EXTINF: -1 tvg-id="Rederecord.br" tvg-name="RECORD TV INTERIOR RIBEIRAO FULL HD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV INTERIOR RIBEIRAO FULL HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211769.m3u8
-#EXTINF: -1 tvg-id="record.itapoan.br" tvg-name="RECORD TV ITAPOAN HD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV ITAPOAN HD²
-http://nbrasil.biz:80/live/luis9662/96622317carlos/211760.m3u8
 #EXTINF: -1 tvg-id="record.santos.br" tvg-name="RECORD TV LITORAL SANTOS HD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV LITORAL SANTOS HD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211755.m3u8
 #EXTINF: -1 tvg-id="record.maceio.br" tvg-name="RECORD TV MANUAS FULLHD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV MANUAS FULLHD²
@@ -1181,8 +1162,6 @@ http://nbrasil.biz:80/live/luis9662/96622317carlos/211750.m3u8
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211766.m3u8
 #EXTINF: -1 tvg-name="RECORD TV RIBEIRÃO PRETO SD²" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV RIBEIRÃO PRETO SD²
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211752.m3u8
-#EXTINF: -1 tvg-name="RECORD TV RO - SICTV HD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV RO - SICTV HD
-http://nbrasil.biz:80/live/luis9662/96622317carlos/211756.m3u8
 #EXTINF: -1 tvg-id="record.florianopolis.br" tvg-name="RECORD TV SANTA CATARINA SD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV SANTA CATARINA SD
 http://nbrasil.biz:80/live/luis9662/96622317carlos/211767.m3u8
 #EXTINF: -1 tvg-name="RECORD TV THATHI FULLHD" tvg-logo="http://nbrasil.biz:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: RECORD", RECORD TV THATHI FULLHD
