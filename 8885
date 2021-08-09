@@ -1,0 +1,125 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://nbrasil.biz:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES", A&E HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208850
+#EXTINF: -1 tvg-id="Ae.br" tvg-name="A&E HD - ALT" tvg-logo="http://nbrasil.biz:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES", A&E HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198446
+#EXTINF: -1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://nbrasil.biz:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES", A&E SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208851
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://nbrasil.biz:80/images/d777e5bca863501ff32d5a7c7ab6dc6e.png" group-title="CANAIS: FILMES E SERIES", AMC HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208853
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC HD (DUAL AUDIO)" tvg-logo="http://nbrasil.biz:80/images/d777e5bca863501ff32d5a7c7ab6dc6e.png" group-title="CANAIS: FILMES E SERIES", AMC HD (DUAL AUDIO)
+http://nbrasil.biz:80/joseane9733/97331768joseane/230818
+#EXTINF: -1 tvg-id="AMC HD" tvg-name="AMC HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d777e5bca863501ff32d5a7c7ab6dc6e.png" group-title="CANAIS: FILMES E SERIES", AMC HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198445
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC HEVC" tvg-logo="http://nbrasil.biz:80/images/d777e5bca863501ff32d5a7c7ab6dc6e.png" group-title="CANAIS: FILMES E SERIES", AMC HEVC
+http://nbrasil.biz:80/joseane9733/97331768joseane/230844
+#EXTINF: -1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://nbrasil.biz:80/images/d777e5bca863501ff32d5a7c7ab6dc6e.png" group-title="CANAIS: FILMES E SERIES", AMC SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208854
+#EXTINF: -1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://nbrasil.biz:80/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES", AXN HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208862
+#EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN HD - ALT" tvg-logo="http://nbrasil.biz:80/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES", AXN HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198442
+#EXTINF: -1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://nbrasil.biz:80/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS: FILMES E SERIES", AXN SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208863
+#EXTINF: -1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://nbrasil.biz:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="CANAIS: FILMES E SERIES", CINEMAX HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208892
+#EXTINF: -1 tvg-id="cinemax.br" tvg-name="CINEMAX HD - ALT" tvg-logo="http://nbrasil.biz:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="CANAIS: FILMES E SERIES", CINEMAX HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198432
+#EXTINF: -1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://nbrasil.biz:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="CANAIS: FILMES E SERIES", CINEMAX SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208893
+#EXTINF: -1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://nbrasil.biz:80/images/d0cc3a30cddd81a9d2392307f0e1061d.png" group-title="CANAIS: FILMES E SERIES", FX HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208967
+#EXTINF: -1 tvg-id="fx.br" tvg-name="FX HD - ALT" tvg-logo="http://nbrasil.biz:80/images/d0cc3a30cddd81a9d2392307f0e1061d.png" group-title="CANAIS: FILMES E SERIES", FX HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198380
+#EXTINF: -1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://nbrasil.biz:80/images/d0cc3a30cddd81a9d2392307f0e1061d.png" group-title="CANAIS: FILMES E SERIES", FX SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208968
+#EXTINF: -1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://nbrasil.biz:80/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES", MEGAPIX HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209030
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD - ALT" tvg-logo="http://nbrasil.biz:80/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES", MEGAPIX HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198354
+#EXTINF: -1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://nbrasil.biz:80/images/c5de9a473384bc07135d7287b715a65e.png" group-title="CANAIS: FILMES E SERIES", MEGAPIX SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209031
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES", PARAMOUNT CHANNEL HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198341
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES", PARAMOUNT NETWORK HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209063
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT NETWORK SD" tvg-logo="http://nbrasil.biz:80/images/eaf8b4e07e8cea974bbec4a7c62937b5.png" group-title="CANAIS: FILMES E SERIES", PARAMOUNT NETWORK SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209064
+#EXTINF: -1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES", SONY CHANNEL HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208886
+#EXTINF: -1 tvg-id="sony.br" tvg-name="SONY CHANNEL SD" tvg-logo="http://nbrasil.biz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES", SONY CHANNEL SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/208887
+#EXTINF: -1 tvg-id="sony.br" tvg-name="SONY HD - ALT" tvg-logo="http://nbrasil.biz:80/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANAIS: FILMES E SERIES", SONY HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198324
+#EXTINF: -1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://nbrasil.biz:80/images/2c77a3b4ee7d02edb3fb963888945de4.png" group-title="CANAIS: FILMES E SERIES", SPACE HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209102
+#EXTINF: -1 tvg-id="Space" tvg-name="SPACE HD - ALT" tvg-logo="http://nbrasil.biz:80/images/2c77a3b4ee7d02edb3fb963888945de4.png" group-title="CANAIS: FILMES E SERIES", SPACE HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198323
+#EXTINF: -1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="http://nbrasil.biz:80/images/2c77a3b4ee7d02edb3fb963888945de4.png" group-title="CANAIS: FILMES E SERIES", SPACE SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209103
+#EXTINF: -1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES", STAR CHANNEL HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209114
+#EXTINF: -1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES", STAR CHANNEL HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198387
+#EXTINF: -1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://nbrasil.biz:80/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="CANAIS: FILMES E SERIES", STAR CHANNEL SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209115
+#EXTINF: -1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD - ALT" tvg-logo="http://nbrasil.biz:80/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES", STAR HITS 1 HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198385
+#EXTINF: -1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://nbrasil.biz:80/images/5570479bfa86675cf11a3f1944b9c64a.png" group-title="CANAIS: FILMES E SERIES", STAR HITS 2 HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209117
+#EXTINF: -1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 HD - ALT" tvg-logo="http://nbrasil.biz:80/images/5570479bfa86675cf11a3f1944b9c64a.png" group-title="CANAIS: FILMES E SERIES", STAR HITS 2 HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198384
+#EXTINF: -1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="http://nbrasil.biz:80/images/5570479bfa86675cf11a3f1944b9c64a.png" group-title="CANAIS: FILMES E SERIES", STAR HITS 2 SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209118
+#EXTINF: -1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="http://nbrasil.biz:80/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES", STAR HITS HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209120
+#EXTINF: -1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD" tvg-logo="http://nbrasil.biz:80/images/57ca4e6a99fe37f6b6b5b07501bd758c.png" group-title="CANAIS: FILMES E SERIES", STAR HITS SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209121
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES", STUDIO UNIVERSAL HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209126
+#EXTINF: -1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES", STUDIO UNIVERSAL HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198319
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://nbrasil.biz:80/images/b5e68d836ec02bd2ca457b07f1c5dc4c.png" group-title="CANAIS: FILMES E SERIES", STUDIO UNIVERSAL SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209127
+#EXTINF: -1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="http://nbrasil.biz:80/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS: FILMES E SERIES", SYFY HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209129
+#EXTINF: -1 tvg-id="syfy.br" tvg-name="SYFY HD - ALT" tvg-logo="http://nbrasil.biz:80/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS: FILMES E SERIES", SYFY HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198318
+#EXTINF: -1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="http://nbrasil.biz:80/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS: FILMES E SERIES", SYFY SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209130
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://nbrasil.biz:80/images/691c03393a5917971d58572fb28ac7f4.png" group-title="CANAIS: FILMES E SERIES", TBS HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209132
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TBS HD (DUAL AUDIO)" tvg-logo="http://nbrasil.biz:80/images/691c03393a5917971d58572fb28ac7f4.png" group-title="CANAIS: FILMES E SERIES", TBS HD (DUAL AUDIO)
+http://nbrasil.biz:80/joseane9733/97331768joseane/230824
+#EXTINF: -1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://nbrasil.biz:80/images/691c03393a5917971d58572fb28ac7f4.png" group-title="CANAIS: FILMES E SERIES", TBS SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209133
+#EXTINF: -1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://nbrasil.biz:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES", TCM HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/57185
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://nbrasil.biz:80/images/5d6fb876db1825223043d60bd7ae9576.png" group-title="CANAIS: FILMES E SERIES", TNT HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209156
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT HD (DUAL AUDIO)" tvg-logo="http://nbrasil.biz:80/images/5d6fb876db1825223043d60bd7ae9576.png" group-title="CANAIS: FILMES E SERIES", TNT HD (DUAL AUDIO)
+http://nbrasil.biz:80/joseane9733/97331768joseane/230891
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT HD - ALT" tvg-logo="http://nbrasil.biz:80/images/5d6fb876db1825223043d60bd7ae9576.png" group-title="CANAIS: FILMES E SERIES", TNT HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198311
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://nbrasil.biz:80/images/5d6fb876db1825223043d60bd7ae9576.png" group-title="CANAIS: FILMES E SERIES", TNT SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209157
+#EXTINF: -1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="http://nbrasil.biz:80/images/ea7f80ea0afa80fd3c686b219c47a61b.png" group-title="CANAIS: FILMES E SERIES", TNT SERIES HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209159
+#EXTINF: -1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="http://nbrasil.biz:80/images/ea7f80ea0afa80fd3c686b219c47a61b.png" group-title="CANAIS: FILMES E SERIES", TNT SERIES SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209160
+#EXTINF: -1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD - ALT" tvg-logo="http://nbrasil.biz:80/images/ea7f80ea0afa80fd3c686b219c47a61b.png" group-title="CANAIS: FILMES E SERIES", TNT SÉRIES HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198308
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES", UNIVERSAL TV HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209180
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD (DUAL AUDIO)" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES", UNIVERSAL TV HD (DUAL AUDIO)
+http://nbrasil.biz:80/joseane9733/97331768joseane/230870
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD - ALT" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES", UNIVERSAL TV HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198306
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://nbrasil.biz:80/images/49cc9dca1d96a62676ed3dc250a91a25.png" group-title="CANAIS: FILMES E SERIES", UNIVERSAL TV SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209181
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://nbrasil.biz:80/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES", WARNER CHANNEL HD
+http://nbrasil.biz:80/joseane9733/97331768joseane/40112
+#EXTINF: -1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD - ALT" tvg-logo="http://nbrasil.biz:80/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES", WARNER CHANNEL HD - ALT
+http://nbrasil.biz:80/joseane9733/97331768joseane/198302
+#EXTINF: -1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://nbrasil.biz:80/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES", WARNER CHANNEL SD
+http://nbrasil.biz:80/joseane9733/97331768joseane/209190
